@@ -1,65 +1,5 @@
 %YAML 1.1
 %TAG !u! tag:unity3d.com,2011:
---- !u!1 &3762772842710706900
-GameObject:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  serializedVersion: 6
-  m_Component:
-  - component: {fileID: 3761227798812775738}
-  - component: {fileID: 3881555107060564104}
-  - component: {fileID: 3866600286770242326}
-  m_Layer: 0
-  m_Name: Zone1
-  m_TagString: Untagged
-  m_Icon: {fileID: 0}
-  m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
-  m_IsActive: 1
---- !u!4 &3761227798812775738
-Transform:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 3762772842710706900}
-  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 1.218995, y: 1.2189955, z: 1.2189955}
-  m_Children: []
-  m_Father: {fileID: 3761335809453861696}
-  m_RootOrder: 3
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!135 &3881555107060564104
-SphereCollider:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 3762772842710706900}
-  m_Material: {fileID: 0}
-  m_IsTrigger: 1
-  m_Enabled: 1
-  serializedVersion: 2
-  m_Radius: 4
-  m_Center: {x: 0, y: 0, z: 0}
---- !u!114 &3866600286770242326
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 3762772842710706900}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 5c40027982a518f4c877ed8b22c18b9d, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  twr: {fileID: 114231757648547274, guid: 997eda0f844715845a30121b4553e2fd, type: 3}
-  lockE: 0
-  curTarget: {fileID: 0}
 --- !u!1 &3762956800539339092
 GameObject:
   m_ObjectHideFlags: 0
@@ -90,7 +30,6 @@ Transform:
   - {fileID: 3761271285362229124}
   - {fileID: 3759841950950799194}
   - {fileID: 3761606052883578402}
-  - {fileID: 3761227798812775738}
   m_Father: {fileID: 3759697730464322612}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
@@ -219,12 +158,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 01572e85dc596c746a9e7a3bfbde4b94, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  range: 15
-  fireRate: 1
+  target: {fileID: 0}
+  range: 35
+  fireRate: 2
   enemyTag: Enemy
   partToRotate: {fileID: 3761606052883578402}
   turnSpeed: 10
-  bulletPrefab: {fileID: 6114396880983414092, guid: 1f54785aabe68db4fbd7c7ba42d4397c, type: 3}
+  bulletPrefab: {fileID: 1807587573315118582, guid: 1f54785aabe68db4fbd7c7ba42d4397c, type: 3}
   firePoint: {fileID: 3759771725810506210}
 --- !u!1 &3763160408606965994
 GameObject:
