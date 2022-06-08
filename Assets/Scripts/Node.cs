@@ -8,8 +8,8 @@ public class Node : MonoBehaviour
     private Renderer rend;
 
     private Material startColor;
-
-    private GameObject turrent;
+    [Header("Optinal")]
+    public GameObject turrent;
 
     public Vector3 positionOffset;
 
@@ -21,9 +21,17 @@ public class Node : MonoBehaviour
         startColor = rend.material;
         buildManager = BuildManager.instance;
     }
+    public Vector3 GetBuildPosition()
+    {
+        return transform.position + positionOffset;
+    }
     void OnMouseEnter()
     {
         if (EventSystem.current.IsPointerOverGameObject())
+        {
+            return;
+        }
+        if (!buildManager.CanBuild)
         {
             return;
         }
@@ -35,7 +43,7 @@ public class Node : MonoBehaviour
         {
             return;
         }
-        if (buildManager.GetTurrentToBuild()== null)
+        if (!buildManager.CanBuild)
         {
             return;
         }
@@ -44,8 +52,7 @@ public class Node : MonoBehaviour
             Debug.Log("Can't build there! - TODO: Display on screen");
             return;
         }
-        GameObject turrentToBuild = buildManager.GetTurrentToBuild();
-        turrent =(GameObject)Instantiate(turrentToBuild, transform.position + positionOffset, transform.rotation);
+        buildManager.BuildTurrentOn(this);
         rend.material = hoverColor;
     }
 
