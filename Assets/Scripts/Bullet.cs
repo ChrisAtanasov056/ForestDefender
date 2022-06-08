@@ -6,7 +6,9 @@ public class Bullet : MonoBehaviour
     private Transform target;
     public float speed = 70f;
     public float explosionRadius = 0f;
+    public int damage = 20;
     public GameObject impactEffect;
+    public GameObject dieEffect;
     public void Seek(Transform _target)
     {
         target = _target;
@@ -61,7 +63,11 @@ public class Bullet : MonoBehaviour
 
     void Damage (Transform enemy)
     {
-        Destroy(enemy.gameObject);
+        Enemy e = enemy.GetComponent<Enemy>();
+        if (e!=null)
+        {
+            e.TakeDamege(damage);
+        }
     }
 
     void OnDrawGizmosSelected()

@@ -1010,7 +1010,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c659666aaf000e440813b2f2d8907d9c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 20
+  speed: 10
+  health: 50
+  value: 50
+  dieEffect: {fileID: 920800682512484076, guid: f474813b779e1c44c9ad6b4800e8655a, type: 3}
 --- !u!1 &1843974486787954953
 GameObject:
   m_ObjectHideFlags: 0
