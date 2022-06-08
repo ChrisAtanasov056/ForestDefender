@@ -4,7 +4,7 @@ using UnityEngine.EventSystems;
 public class Node : MonoBehaviour
 {
     public Material hoverColor;
-
+    public Material notEnoughMoneyColor;
     private Renderer rend;
 
     private Material startColor;
@@ -35,8 +35,16 @@ public class Node : MonoBehaviour
         {
             return;
         }
-        rend.material = hoverColor;
+        if (buildManager.HasMoney)
+        {
+            rend.material = hoverColor;
+        }
+        else
+        {
+            rend.material = notEnoughMoneyColor;
+        }
     }
+    
     void OnMouseDown()
     {
         if (EventSystem.current.IsPointerOverGameObject())
