@@ -19,6 +19,7 @@ public class BuildManager : MonoBehaviour
     public GameObject turrentLevel_1;
     public GameObject turrentLevel_2;
     public GameObject turrentLevel_3;
+    public GameObject mageTurrent;
     public GameObject turrentBuildEffect;
     private TurrentBlueprint turrentToBuild;
 
