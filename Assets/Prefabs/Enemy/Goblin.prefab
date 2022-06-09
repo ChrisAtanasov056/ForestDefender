@@ -943,6 +943,7 @@ GameObject:
   - component: {fileID: 1785295590531662023}
   - component: {fileID: 1761334683817807065}
   - component: {fileID: -5409862375263090692}
+  - component: {fileID: -8419786317416500081}
   m_Layer: 0
   m_Name: Goblin
   m_TagString: Enemy
@@ -1014,6 +1015,18 @@ MonoBehaviour:
   health: 100
   value: 50
   dieEffect: {fileID: 920800682512484076, guid: f474813b779e1c44c9ad6b4800e8655a, type: 3}
+--- !u!114 &-8419786317416500081
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1843916975723693653}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f2faab70c4d152649a9698bc13228825, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &1843974486787954953
 GameObject:
   m_ObjectHideFlags: 0

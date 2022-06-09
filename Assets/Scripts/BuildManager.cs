@@ -23,7 +23,8 @@ public class BuildManager : MonoBehaviour
     public GameObject turrentBuildEffect;
     private TurrentBlueprint turrentToBuild;
 
-    public bool CanBuild { get { return turrentToBuild != null; } }
+    public bool CanBuild {set { } get { return turrentToBuild != null; } }
+    
     public bool HasMoney { get { return PlayerStats.Money >= turrentToBuild.cost; } }
     public void BuildTurrentOn(Node node)
     {
@@ -32,7 +33,10 @@ public class BuildManager : MonoBehaviour
             Debug.Log("Not enough money to build that!");
             return;
         }
-
+        if (node.turrent !=null)
+        {
+            CanBuild = false;
+        }
         PlayerStats.Money -= turrentToBuild.cost;
         GameObject buildEffect = (GameObject)Instantiate(turrentBuildEffect, node.GetBuildPosition(), Quaternion.identity);
         Destroy(buildEffect, 8f);

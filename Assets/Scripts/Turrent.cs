@@ -4,6 +4,7 @@ using UnityEngine;
 public class Turrent : MonoBehaviour
 {
     public Transform target;
+    private Enemy targetEnemy;
 
     [Header("Use Bullet (default)")]
     public GameObject bulletPrefab;
@@ -15,6 +16,8 @@ public class Turrent : MonoBehaviour
     public bool useLaser = false;
     public GameObject lightingBold;
     private GameObject lb;
+    public int damageOverTime = 30;
+    public float slowPct = .5f;
 
     [Header("Unity Setup Fields")]
     public float range = 15f;
@@ -48,6 +51,7 @@ public class Turrent : MonoBehaviour
         if (nearestEnemy != null && shortestDiscnace <= range) 
         {
             target = nearestEnemy.transform;
+            targetEnemy = nearestEnemy.GetComponent<Enemy>();
         }
         else
         {
@@ -69,7 +73,6 @@ public class Turrent : MonoBehaviour
         LockOnTarget();
         if (useLaser)
         {
-            
             Laser();
         }
         else
@@ -87,6 +90,13 @@ public class Turrent : MonoBehaviour
 
     void Laser()
     {
+        //Taking damage
+        targetEnemy.TakeDamege(damageOverTime * Time.deltaTime);
+
+        //Slow effect
+        targetEnemy.Slow(slowPct);
+
+        //Visual laser beam Effect
         if (lb == null)
         {
             GameObject laser = (GameObject)Instantiate<GameObject>(lightingBold);
@@ -94,7 +104,7 @@ public class Turrent : MonoBehaviour
         }
         lb.GetComponent<LightningBoltScript>().StartPosition = firePoint.position;
         lb.GetComponent<LightningBoltScript>().EndPosition = target.position;
-       
+        
            //lineRenderer.transform.GetChild(0).gameObject.transform.position = firePoint.position;
            //lineRenderer.transform.GetChild(1).gameObject.transform.position = target.position;
             
