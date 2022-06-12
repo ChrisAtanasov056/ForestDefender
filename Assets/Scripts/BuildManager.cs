@@ -16,12 +16,15 @@ public class BuildManager : MonoBehaviour
         instance = this;
     }
 
+    public GameObject turrentBuildEffect;
+    public NodeUI nodeUI;
     public GameObject turrentLevel_1;
     public GameObject turrentLevel_2;
     public GameObject turrentLevel_3;
-    public GameObject mageTurrent;
-    public GameObject turrentBuildEffect;
+    public GameObject mageTower;
     private TurrentBlueprint turrentToBuild;
+    private Node selectedNode;
+    private TurrentBlueprint selectedTurrent;
 
     public bool CanBuild {set { } get { return turrentToBuild != null; } }
     
@@ -33,12 +36,21 @@ public class BuildManager : MonoBehaviour
             Debug.Log("Not enough money to build that!");
             return;
         }
-        if (node.turrent !=null)
+        if (selectedNode != null)
         {
-            CanBuild = false;
+            return;
         }
+       
+        //if (selectedTurrent != null || selectedTurrent == turrentToBuild)
+        //{
+        //    selectedTurrent = turrentToBuild;
+        //}
         PlayerStats.Money -= turrentToBuild.cost;
+        
         GameObject buildEffect = (GameObject)Instantiate(turrentBuildEffect, node.GetBuildPosition(), Quaternion.identity);
+        GameObject turrent = (GameObject)Instantiate(turrentToBuild.prefab, node.GetBuildPosition(), Quaternion.identity);
+        node.turrent = turrent;
+        node.turrent.SetActive(false);
         Destroy(buildEffect, 8f);
         StartCoroutine(BuildDelay(8, node));
         Debug.Log("Turrent Build! Money left: " + PlayerStats.Money);
@@ -46,12 +58,30 @@ public class BuildManager : MonoBehaviour
     IEnumerator BuildDelay(float delayTime, Node node)
     {
         yield return new WaitForSeconds(delayTime);
-        GameObject turrent = (GameObject)Instantiate(turrentToBuild.prefab, node.GetBuildPosition(), Quaternion.identity);
-        node.turrent = turrent;
+        node.turrent.SetActive(true);
+    }
+    public void SelectNode (Node node)
+    {
+        if (selectedNode == node || node.turrent.active == false)
+        {
+            DeselectNode();
+            return;
+        }
+
+        selectedNode = node;
+        turrentToBuild = null;
+        nodeUI.SetTarget(node);
+    }
+
+    public void DeselectNode()
+    {
+        selectedNode = null;
+        nodeUI.Hide();
     }
 
     public void SelectTurrentToBuild(TurrentBlueprint turrent)
     {
         turrentToBuild = turrent;
+        DeselectNode();
     }
 }

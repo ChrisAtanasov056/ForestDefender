@@ -10,7 +10,8 @@ public class Node : MonoBehaviour
     private Material startColor;
     [Header("Optinal")]
     public GameObject turrent;
-
+    //private GameObject[] buildings;
+    public int buildingRadius = 6;
     public Vector3 positionOffset;
 
     BuildManager buildManager;
@@ -20,6 +21,14 @@ public class Node : MonoBehaviour
         rend = GetComponent<Renderer>();
         startColor = rend.material;
         buildManager = BuildManager.instance;
+        Collider[] colliders = Physics.OverlapSphere(transform.position, buildingRadius);
+        foreach (var collider in colliders)
+        {
+            if (collider.CompareTag("Building"))
+            {
+                turrent = collider.gameObject;
+            }
+        }
     }
     public Vector3 GetBuildPosition()
     {
@@ -51,21 +60,28 @@ public class Node : MonoBehaviour
         {
             return;
         }
+        if (turrent != null)
+        {
+            buildManager.SelectNode(this);
+            return;
+        }
         if (!buildManager.CanBuild)
         {
             return;
         }
-        if (turrent != null)
-        {
-            Debug.Log("Can't build there! - TODO: Display on screen");
-            return;
-        }
         buildManager.BuildTurrentOn(this);
-        rend.material = hoverColor;
+        
     }
 
     void OnMouseExit()
     {
         rend.material = startColor;
+    }
+
+    void OnDrawGizmosSelected()
+    {
+        Gizmos.color = Color.red;
+        Gizmos.DrawWireSphere(transform.position, buildingRadius);
+
     }
 }

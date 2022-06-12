@@ -24,7 +24,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 7721117774428355140}
   m_LocalRotation: {x: -0.0028027217, y: 0.9891028, z: 0.018991455, w: -0.14596984}
-  m_LocalPosition: {x: 0.019227982, y: -0.12050176, z: 4.364887}
+  m_LocalPosition: {x: -0, y: -0.12, z: 4.29}
   m_LocalScale: {x: 1.4285713, y: 1.4285713, z: 1.4285711}
   m_Children: []
   m_Father: {fileID: 7721117775903108589}
@@ -207,12 +207,16 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   target: {fileID: 0}
-  range: 25
+  bulletPrefab: {fileID: 0}
   fireRate: 1
+  useLaser: 0
+  lightingBold: {fileID: 0}
+  damageOverTime: 30
+  slowPct: 0.5
+  range: 25
   enemyTag: Enemy
   partToRotate: {fileID: 7721117775903102387}
   turnSpeed: 10
-  bulletPrefab: {fileID: 0}
   firePoint: {fileID: 0}
 --- !u!1 &7721117775903428925
 GameObject:
@@ -507,12 +511,16 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   target: {fileID: 0}
-  range: 20
+  bulletPrefab: {fileID: 1807587573315118582, guid: 1f54785aabe68db4fbd7c7ba42d4397c, type: 3}
   fireRate: 1
+  useLaser: 0
+  lightingBold: {fileID: 0}
+  damageOverTime: 30
+  slowPct: 0.5
+  range: 20
   enemyTag: Enemy
   partToRotate: {fileID: 7721117775903102387}
   turnSpeed: 10
-  bulletPrefab: {fileID: 1807587573315118582, guid: 1f54785aabe68db4fbd7c7ba42d4397c, type: 3}
   firePoint: {fileID: 7721117774428355143}
 --- !u!1 &7721117775903485841
 GameObject:
