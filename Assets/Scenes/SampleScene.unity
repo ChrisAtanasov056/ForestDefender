@@ -680,6 +680,12 @@ MonoBehaviour:
   hoverColor: {fileID: 2100000, guid: ce6846b6b5ba77f4e83630cc67fcd60d, type: 2}
   notEnoughMoneyColor: {fileID: 2100000, guid: d039561a0d242784196a9f282d2d2c08, type: 2}
   turrent: {fileID: 0}
+  turrentBlueprint:
+    prefab: {fileID: 0}
+    cost: 0
+    upgradedPrefab: {fileID: 0}
+    upgradedCost: 0
+  isUpgraded: 0
   buildingRadius: 4
   positionOffset: {x: 0, y: 3, z: 0}
 --- !u!65 &30875408
@@ -715,6 +721,12 @@ MonoBehaviour:
   hoverColor: {fileID: 2100000, guid: ce6846b6b5ba77f4e83630cc67fcd60d, type: 2}
   notEnoughMoneyColor: {fileID: 2100000, guid: d039561a0d242784196a9f282d2d2c08, type: 2}
   turrent: {fileID: 0}
+  turrentBlueprint:
+    prefab: {fileID: 0}
+    cost: 0
+    upgradedPrefab: {fileID: 0}
+    upgradedCost: 0
+  isUpgraded: 0
   buildingRadius: 4
   positionOffset: {x: 0, y: 3, z: 0}
 --- !u!65 &30950593
@@ -1041,6 +1053,12 @@ MonoBehaviour:
   hoverColor: {fileID: 2100000, guid: ce6846b6b5ba77f4e83630cc67fcd60d, type: 2}
   notEnoughMoneyColor: {fileID: 2100000, guid: d039561a0d242784196a9f282d2d2c08, type: 2}
   turrent: {fileID: 0}
+  turrentBlueprint:
+    prefab: {fileID: 0}
+    cost: 0
+    upgradedPrefab: {fileID: 0}
+    upgradedCost: 0
+  isUpgraded: 0
   buildingRadius: 4
   positionOffset: {x: 0, y: 3, z: 0}
 --- !u!65 &49072867
@@ -1150,6 +1168,12 @@ MonoBehaviour:
   hoverColor: {fileID: 2100000, guid: ce6846b6b5ba77f4e83630cc67fcd60d, type: 2}
   notEnoughMoneyColor: {fileID: 2100000, guid: d039561a0d242784196a9f282d2d2c08, type: 2}
   turrent: {fileID: 0}
+  turrentBlueprint:
+    prefab: {fileID: 0}
+    cost: 0
+    upgradedPrefab: {fileID: 0}
+    upgradedCost: 0
+  isUpgraded: 0
   buildingRadius: 4
   positionOffset: {x: 0, y: 3, z: 0}
 --- !u!65 &58954906
@@ -1334,6 +1358,12 @@ MonoBehaviour:
   hoverColor: {fileID: 2100000, guid: ce6846b6b5ba77f4e83630cc67fcd60d, type: 2}
   notEnoughMoneyColor: {fileID: 2100000, guid: d039561a0d242784196a9f282d2d2c08, type: 2}
   turrent: {fileID: 0}
+  turrentBlueprint:
+    prefab: {fileID: 0}
+    cost: 0
+    upgradedPrefab: {fileID: 0}
+    upgradedCost: 0
+  isUpgraded: 0
   buildingRadius: 4
   positionOffset: {x: 0, y: 3, z: 0}
 --- !u!65 &63208612
@@ -1443,6 +1473,12 @@ MonoBehaviour:
   hoverColor: {fileID: 2100000, guid: ce6846b6b5ba77f4e83630cc67fcd60d, type: 2}
   notEnoughMoneyColor: {fileID: 2100000, guid: d039561a0d242784196a9f282d2d2c08, type: 2}
   turrent: {fileID: 0}
+  turrentBlueprint:
+    prefab: {fileID: 0}
+    cost: 0
+    upgradedPrefab: {fileID: 0}
+    upgradedCost: 0
+  isUpgraded: 0
   buildingRadius: 4
   positionOffset: {x: 0, y: 3, z: 0}
 --- !u!65 &64269719
@@ -1730,6 +1766,12 @@ MonoBehaviour:
   hoverColor: {fileID: 2100000, guid: ce6846b6b5ba77f4e83630cc67fcd60d, type: 2}
   notEnoughMoneyColor: {fileID: 2100000, guid: d039561a0d242784196a9f282d2d2c08, type: 2}
   turrent: {fileID: 0}
+  turrentBlueprint:
+    prefab: {fileID: 0}
+    cost: 0
+    upgradedPrefab: {fileID: 0}
+    upgradedCost: 0
+  isUpgraded: 0
   buildingRadius: 4
   positionOffset: {x: 0, y: 3, z: 0}
 --- !u!65 &84660877
@@ -2005,6 +2047,12 @@ MonoBehaviour:
   hoverColor: {fileID: 2100000, guid: ce6846b6b5ba77f4e83630cc67fcd60d, type: 2}
   notEnoughMoneyColor: {fileID: 2100000, guid: d039561a0d242784196a9f282d2d2c08, type: 2}
   turrent: {fileID: 0}
+  turrentBlueprint:
+    prefab: {fileID: 0}
+    cost: 0
+    upgradedPrefab: {fileID: 0}
+    upgradedCost: 0
+  isUpgraded: 0
   buildingRadius: 4
   positionOffset: {x: 0, y: 3, z: 0}
 --- !u!65 &113205225
@@ -2194,6 +2242,12 @@ MonoBehaviour:
   hoverColor: {fileID: 2100000, guid: ce6846b6b5ba77f4e83630cc67fcd60d, type: 2}
   notEnoughMoneyColor: {fileID: 2100000, guid: d039561a0d242784196a9f282d2d2c08, type: 2}
   turrent: {fileID: 0}
+  turrentBlueprint:
+    prefab: {fileID: 0}
+    cost: 0
+    upgradedPrefab: {fileID: 0}
+    upgradedCost: 0
+  isUpgraded: 0
   buildingRadius: 4
   positionOffset: {x: 0, y: 3, z: 0}
 --- !u!65 &129643728
@@ -2257,6 +2311,12 @@ MonoBehaviour:
   hoverColor: {fileID: 2100000, guid: ce6846b6b5ba77f4e83630cc67fcd60d, type: 2}
   notEnoughMoneyColor: {fileID: 2100000, guid: d039561a0d242784196a9f282d2d2c08, type: 2}
   turrent: {fileID: 0}
+  turrentBlueprint:
+    prefab: {fileID: 0}
+    cost: 0
+    upgradedPrefab: {fileID: 0}
+    upgradedCost: 0
+  isUpgraded: 0
   buildingRadius: 4
   positionOffset: {x: 0, y: 3, z: 0}
 --- !u!65 &138687495
@@ -2371,6 +2431,12 @@ MonoBehaviour:
   hoverColor: {fileID: 2100000, guid: ce6846b6b5ba77f4e83630cc67fcd60d, type: 2}
   notEnoughMoneyColor: {fileID: 2100000, guid: d039561a0d242784196a9f282d2d2c08, type: 2}
   turrent: {fileID: 0}
+  turrentBlueprint:
+    prefab: {fileID: 0}
+    cost: 0
+    upgradedPrefab: {fileID: 0}
+    upgradedCost: 0
+  isUpgraded: 0
   buildingRadius: 4
   positionOffset: {x: 0, y: 3, z: 0}
 --- !u!65 &140491399
@@ -2503,6 +2569,12 @@ MonoBehaviour:
   hoverColor: {fileID: 2100000, guid: ce6846b6b5ba77f4e83630cc67fcd60d, type: 2}
   notEnoughMoneyColor: {fileID: 2100000, guid: d039561a0d242784196a9f282d2d2c08, type: 2}
   turrent: {fileID: 0}
+  turrentBlueprint:
+    prefab: {fileID: 0}
+    cost: 0
+    upgradedPrefab: {fileID: 0}
+    upgradedCost: 0
+  isUpgraded: 0
   buildingRadius: 4
   positionOffset: {x: 0, y: 3, z: 0}
 --- !u!65 &145176247
@@ -2711,6 +2783,12 @@ MonoBehaviour:
   hoverColor: {fileID: 2100000, guid: ce6846b6b5ba77f4e83630cc67fcd60d, type: 2}
   notEnoughMoneyColor: {fileID: 2100000, guid: d039561a0d242784196a9f282d2d2c08, type: 2}
   turrent: {fileID: 0}
+  turrentBlueprint:
+    prefab: {fileID: 0}
+    cost: 0
+    upgradedPrefab: {fileID: 0}
+    upgradedCost: 0
+  isUpgraded: 0
   buildingRadius: 4
   positionOffset: {x: 0, y: 3, z: 0}
 --- !u!65 &153476134
@@ -2746,6 +2824,12 @@ MonoBehaviour:
   hoverColor: {fileID: 2100000, guid: ce6846b6b5ba77f4e83630cc67fcd60d, type: 2}
   notEnoughMoneyColor: {fileID: 2100000, guid: d039561a0d242784196a9f282d2d2c08, type: 2}
   turrent: {fileID: 0}
+  turrentBlueprint:
+    prefab: {fileID: 0}
+    cost: 0
+    upgradedPrefab: {fileID: 0}
+    upgradedCost: 0
+  isUpgraded: 0
   buildingRadius: 4
   positionOffset: {x: 0, y: 3, z: 0}
 --- !u!65 &154524381
@@ -2952,6 +3036,12 @@ MonoBehaviour:
   hoverColor: {fileID: 2100000, guid: ce6846b6b5ba77f4e83630cc67fcd60d, type: 2}
   notEnoughMoneyColor: {fileID: 2100000, guid: d039561a0d242784196a9f282d2d2c08, type: 2}
   turrent: {fileID: 0}
+  turrentBlueprint:
+    prefab: {fileID: 0}
+    cost: 0
+    upgradedPrefab: {fileID: 0}
+    upgradedCost: 0
+  isUpgraded: 0
   buildingRadius: 4
   positionOffset: {x: 0, y: 3, z: 0}
 --- !u!65 &162096374
@@ -3061,6 +3151,12 @@ MonoBehaviour:
   hoverColor: {fileID: 2100000, guid: ce6846b6b5ba77f4e83630cc67fcd60d, type: 2}
   notEnoughMoneyColor: {fileID: 2100000, guid: d039561a0d242784196a9f282d2d2c08, type: 2}
   turrent: {fileID: 0}
+  turrentBlueprint:
+    prefab: {fileID: 0}
+    cost: 0
+    upgradedPrefab: {fileID: 0}
+    upgradedCost: 0
+  isUpgraded: 0
   buildingRadius: 4
   positionOffset: {x: 0, y: 3, z: 0}
 --- !u!65 &179136183
@@ -3382,6 +3478,12 @@ MonoBehaviour:
   hoverColor: {fileID: 2100000, guid: ce6846b6b5ba77f4e83630cc67fcd60d, type: 2}
   notEnoughMoneyColor: {fileID: 2100000, guid: d039561a0d242784196a9f282d2d2c08, type: 2}
   turrent: {fileID: 0}
+  turrentBlueprint:
+    prefab: {fileID: 0}
+    cost: 0
+    upgradedPrefab: {fileID: 0}
+    upgradedCost: 0
+  isUpgraded: 0
   buildingRadius: 4
   positionOffset: {x: 0, y: 3, z: 0}
 --- !u!65 &204014675
@@ -3491,6 +3593,12 @@ MonoBehaviour:
   hoverColor: {fileID: 2100000, guid: ce6846b6b5ba77f4e83630cc67fcd60d, type: 2}
   notEnoughMoneyColor: {fileID: 2100000, guid: d039561a0d242784196a9f282d2d2c08, type: 2}
   turrent: {fileID: 0}
+  turrentBlueprint:
+    prefab: {fileID: 0}
+    cost: 0
+    upgradedPrefab: {fileID: 0}
+    upgradedCost: 0
+  isUpgraded: 0
   buildingRadius: 4
   positionOffset: {x: 0, y: 3, z: 0}
 --- !u!65 &209254359
@@ -3526,6 +3634,12 @@ MonoBehaviour:
   hoverColor: {fileID: 2100000, guid: ce6846b6b5ba77f4e83630cc67fcd60d, type: 2}
   notEnoughMoneyColor: {fileID: 2100000, guid: d039561a0d242784196a9f282d2d2c08, type: 2}
   turrent: {fileID: 0}
+  turrentBlueprint:
+    prefab: {fileID: 0}
+    cost: 0
+    upgradedPrefab: {fileID: 0}
+    upgradedCost: 0
+  isUpgraded: 0
   buildingRadius: 4
   positionOffset: {x: 0, y: 3, z: 0}
 --- !u!65 &213908694
@@ -3561,6 +3675,12 @@ MonoBehaviour:
   hoverColor: {fileID: 2100000, guid: ce6846b6b5ba77f4e83630cc67fcd60d, type: 2}
   notEnoughMoneyColor: {fileID: 2100000, guid: d039561a0d242784196a9f282d2d2c08, type: 2}
   turrent: {fileID: 0}
+  turrentBlueprint:
+    prefab: {fileID: 0}
+    cost: 0
+    upgradedPrefab: {fileID: 0}
+    upgradedCost: 0
+  isUpgraded: 0
   buildingRadius: 4
   positionOffset: {x: 0, y: 3, z: 0}
 --- !u!65 &214800917
@@ -3782,6 +3902,12 @@ MonoBehaviour:
   hoverColor: {fileID: 2100000, guid: ce6846b6b5ba77f4e83630cc67fcd60d, type: 2}
   notEnoughMoneyColor: {fileID: 2100000, guid: d039561a0d242784196a9f282d2d2c08, type: 2}
   turrent: {fileID: 0}
+  turrentBlueprint:
+    prefab: {fileID: 0}
+    cost: 0
+    upgradedPrefab: {fileID: 0}
+    upgradedCost: 0
+  isUpgraded: 0
   buildingRadius: 4
   positionOffset: {x: 0, y: 3, z: 0}
 --- !u!65 &242955902
@@ -4386,6 +4512,12 @@ MonoBehaviour:
   hoverColor: {fileID: 2100000, guid: ce6846b6b5ba77f4e83630cc67fcd60d, type: 2}
   notEnoughMoneyColor: {fileID: 2100000, guid: d039561a0d242784196a9f282d2d2c08, type: 2}
   turrent: {fileID: 0}
+  turrentBlueprint:
+    prefab: {fileID: 0}
+    cost: 0
+    upgradedPrefab: {fileID: 0}
+    upgradedCost: 0
+  isUpgraded: 0
   buildingRadius: 4
   positionOffset: {x: 0, y: 3, z: 0}
 --- !u!65 &257284061
@@ -4500,6 +4632,12 @@ MonoBehaviour:
   hoverColor: {fileID: 2100000, guid: ce6846b6b5ba77f4e83630cc67fcd60d, type: 2}
   notEnoughMoneyColor: {fileID: 2100000, guid: d039561a0d242784196a9f282d2d2c08, type: 2}
   turrent: {fileID: 0}
+  turrentBlueprint:
+    prefab: {fileID: 0}
+    cost: 0
+    upgradedPrefab: {fileID: 0}
+    upgradedCost: 0
+  isUpgraded: 0
   buildingRadius: 4
   positionOffset: {x: 0, y: 3, z: 0}
 --- !u!65 &261674868
@@ -4535,6 +4673,12 @@ MonoBehaviour:
   hoverColor: {fileID: 2100000, guid: ce6846b6b5ba77f4e83630cc67fcd60d, type: 2}
   notEnoughMoneyColor: {fileID: 2100000, guid: d039561a0d242784196a9f282d2d2c08, type: 2}
   turrent: {fileID: 0}
+  turrentBlueprint:
+    prefab: {fileID: 0}
+    cost: 0
+    upgradedPrefab: {fileID: 0}
+    upgradedCost: 0
+  isUpgraded: 0
   buildingRadius: 4
   positionOffset: {x: 0, y: 3, z: 0}
 --- !u!65 &262823214
@@ -4639,6 +4783,12 @@ MonoBehaviour:
   hoverColor: {fileID: 2100000, guid: ce6846b6b5ba77f4e83630cc67fcd60d, type: 2}
   notEnoughMoneyColor: {fileID: 2100000, guid: d039561a0d242784196a9f282d2d2c08, type: 2}
   turrent: {fileID: 0}
+  turrentBlueprint:
+    prefab: {fileID: 0}
+    cost: 0
+    upgradedPrefab: {fileID: 0}
+    upgradedCost: 0
+  isUpgraded: 0
   buildingRadius: 4
   positionOffset: {x: 0, y: 3, z: 0}
 --- !u!65 &277385449
@@ -4748,6 +4898,12 @@ MonoBehaviour:
   hoverColor: {fileID: 2100000, guid: ce6846b6b5ba77f4e83630cc67fcd60d, type: 2}
   notEnoughMoneyColor: {fileID: 2100000, guid: d039561a0d242784196a9f282d2d2c08, type: 2}
   turrent: {fileID: 0}
+  turrentBlueprint:
+    prefab: {fileID: 0}
+    cost: 0
+    upgradedPrefab: {fileID: 0}
+    upgradedCost: 0
+  isUpgraded: 0
   buildingRadius: 4
   positionOffset: {x: 0, y: 3, z: 0}
 --- !u!65 &280705803
@@ -4783,6 +4939,12 @@ MonoBehaviour:
   hoverColor: {fileID: 2100000, guid: ce6846b6b5ba77f4e83630cc67fcd60d, type: 2}
   notEnoughMoneyColor: {fileID: 2100000, guid: d039561a0d242784196a9f282d2d2c08, type: 2}
   turrent: {fileID: 0}
+  turrentBlueprint:
+    prefab: {fileID: 0}
+    cost: 0
+    upgradedPrefab: {fileID: 0}
+    upgradedCost: 0
+  isUpgraded: 0
   buildingRadius: 4
   positionOffset: {x: 0, y: 3, z: 0}
 --- !u!65 &282807460
@@ -4818,6 +4980,12 @@ MonoBehaviour:
   hoverColor: {fileID: 2100000, guid: ce6846b6b5ba77f4e83630cc67fcd60d, type: 2}
   notEnoughMoneyColor: {fileID: 2100000, guid: d039561a0d242784196a9f282d2d2c08, type: 2}
   turrent: {fileID: 0}
+  turrentBlueprint:
+    prefab: {fileID: 0}
+    cost: 0
+    upgradedPrefab: {fileID: 0}
+    upgradedCost: 0
+  isUpgraded: 0
   buildingRadius: 4
   positionOffset: {x: 0, y: 3, z: 0}
 --- !u!65 &283688949
@@ -4853,6 +5021,12 @@ MonoBehaviour:
   hoverColor: {fileID: 2100000, guid: ce6846b6b5ba77f4e83630cc67fcd60d, type: 2}
   notEnoughMoneyColor: {fileID: 2100000, guid: d039561a0d242784196a9f282d2d2c08, type: 2}
   turrent: {fileID: 0}
+  turrentBlueprint:
+    prefab: {fileID: 0}
+    cost: 0
+    upgradedPrefab: {fileID: 0}
+    upgradedCost: 0
+  isUpgraded: 0
   buildingRadius: 4
   positionOffset: {x: 0, y: 3, z: 0}
 --- !u!65 &286398637
@@ -5194,6 +5368,12 @@ MonoBehaviour:
   hoverColor: {fileID: 2100000, guid: ce6846b6b5ba77f4e83630cc67fcd60d, type: 2}
   notEnoughMoneyColor: {fileID: 2100000, guid: d039561a0d242784196a9f282d2d2c08, type: 2}
   turrent: {fileID: 0}
+  turrentBlueprint:
+    prefab: {fileID: 0}
+    cost: 0
+    upgradedPrefab: {fileID: 0}
+    upgradedCost: 0
+  isUpgraded: 0
   buildingRadius: 4
   positionOffset: {x: 0, y: 3, z: 0}
 --- !u!65 &304008356
@@ -5303,6 +5483,12 @@ MonoBehaviour:
   hoverColor: {fileID: 2100000, guid: ce6846b6b5ba77f4e83630cc67fcd60d, type: 2}
   notEnoughMoneyColor: {fileID: 2100000, guid: d039561a0d242784196a9f282d2d2c08, type: 2}
   turrent: {fileID: 0}
+  turrentBlueprint:
+    prefab: {fileID: 0}
+    cost: 0
+    upgradedPrefab: {fileID: 0}
+    upgradedCost: 0
+  isUpgraded: 0
   buildingRadius: 4
   positionOffset: {x: 0, y: 3, z: 0}
 --- !u!65 &324542046
@@ -5368,6 +5554,12 @@ MonoBehaviour:
   hoverColor: {fileID: 2100000, guid: ce6846b6b5ba77f4e83630cc67fcd60d, type: 2}
   notEnoughMoneyColor: {fileID: 2100000, guid: d039561a0d242784196a9f282d2d2c08, type: 2}
   turrent: {fileID: 0}
+  turrentBlueprint:
+    prefab: {fileID: 0}
+    cost: 0
+    upgradedPrefab: {fileID: 0}
+    upgradedCost: 0
+  isUpgraded: 0
   buildingRadius: 4
   positionOffset: {x: 0, y: 3, z: 0}
 --- !u!65 &338740174
@@ -5403,6 +5595,12 @@ MonoBehaviour:
   hoverColor: {fileID: 2100000, guid: ce6846b6b5ba77f4e83630cc67fcd60d, type: 2}
   notEnoughMoneyColor: {fileID: 2100000, guid: d039561a0d242784196a9f282d2d2c08, type: 2}
   turrent: {fileID: 0}
+  turrentBlueprint:
+    prefab: {fileID: 0}
+    cost: 0
+    upgradedPrefab: {fileID: 0}
+    upgradedCost: 0
+  isUpgraded: 0
   buildingRadius: 4
   positionOffset: {x: 0, y: 3, z: 0}
 --- !u!65 &338858255
@@ -5438,6 +5636,12 @@ MonoBehaviour:
   hoverColor: {fileID: 2100000, guid: ce6846b6b5ba77f4e83630cc67fcd60d, type: 2}
   notEnoughMoneyColor: {fileID: 2100000, guid: d039561a0d242784196a9f282d2d2c08, type: 2}
   turrent: {fileID: 0}
+  turrentBlueprint:
+    prefab: {fileID: 0}
+    cost: 0
+    upgradedPrefab: {fileID: 0}
+    upgradedCost: 0
+  isUpgraded: 0
   buildingRadius: 4
   positionOffset: {x: 0, y: 3, z: 0}
 --- !u!65 &341374394
@@ -5473,6 +5677,12 @@ MonoBehaviour:
   hoverColor: {fileID: 2100000, guid: ce6846b6b5ba77f4e83630cc67fcd60d, type: 2}
   notEnoughMoneyColor: {fileID: 2100000, guid: d039561a0d242784196a9f282d2d2c08, type: 2}
   turrent: {fileID: 0}
+  turrentBlueprint:
+    prefab: {fileID: 0}
+    cost: 0
+    upgradedPrefab: {fileID: 0}
+    upgradedCost: 0
+  isUpgraded: 0
   buildingRadius: 4
   positionOffset: {x: 0, y: 3, z: 0}
 --- !u!65 &342006972
@@ -5508,6 +5718,12 @@ MonoBehaviour:
   hoverColor: {fileID: 2100000, guid: ce6846b6b5ba77f4e83630cc67fcd60d, type: 2}
   notEnoughMoneyColor: {fileID: 2100000, guid: d039561a0d242784196a9f282d2d2c08, type: 2}
   turrent: {fileID: 0}
+  turrentBlueprint:
+    prefab: {fileID: 0}
+    cost: 0
+    upgradedPrefab: {fileID: 0}
+    upgradedCost: 0
+  isUpgraded: 0
   buildingRadius: 4
   positionOffset: {x: 0, y: 3, z: 0}
 --- !u!65 &347203696
@@ -5543,6 +5759,12 @@ MonoBehaviour:
   hoverColor: {fileID: 2100000, guid: ce6846b6b5ba77f4e83630cc67fcd60d, type: 2}
   notEnoughMoneyColor: {fileID: 2100000, guid: d039561a0d242784196a9f282d2d2c08, type: 2}
   turrent: {fileID: 0}
+  turrentBlueprint:
+    prefab: {fileID: 0}
+    cost: 0
+    upgradedPrefab: {fileID: 0}
+    upgradedCost: 0
+  isUpgraded: 0
   buildingRadius: 4
   positionOffset: {x: 0, y: 3, z: 0}
 --- !u!65 &348937663
@@ -5591,7 +5813,7 @@ RectTransform:
   - {fileID: 1945188743}
   - {fileID: 791384245}
   m_Father: {fileID: 601321136}
-  m_RootOrder: 2
+  m_RootOrder: 3
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 1, y: 1}
@@ -5669,6 +5891,12 @@ MonoBehaviour:
   hoverColor: {fileID: 2100000, guid: ce6846b6b5ba77f4e83630cc67fcd60d, type: 2}
   notEnoughMoneyColor: {fileID: 2100000, guid: d039561a0d242784196a9f282d2d2c08, type: 2}
   turrent: {fileID: 0}
+  turrentBlueprint:
+    prefab: {fileID: 0}
+    cost: 0
+    upgradedPrefab: {fileID: 0}
+    upgradedCost: 0
+  isUpgraded: 0
   buildingRadius: 4
   positionOffset: {x: 0, y: 3, z: 0}
 --- !u!65 &370845541
@@ -5783,6 +6011,12 @@ MonoBehaviour:
   hoverColor: {fileID: 2100000, guid: ce6846b6b5ba77f4e83630cc67fcd60d, type: 2}
   notEnoughMoneyColor: {fileID: 2100000, guid: d039561a0d242784196a9f282d2d2c08, type: 2}
   turrent: {fileID: 0}
+  turrentBlueprint:
+    prefab: {fileID: 0}
+    cost: 0
+    upgradedPrefab: {fileID: 0}
+    upgradedCost: 0
+  isUpgraded: 0
   buildingRadius: 4
   positionOffset: {x: 0, y: 3, z: 0}
 --- !u!65 &380026582
@@ -5818,6 +6052,12 @@ MonoBehaviour:
   hoverColor: {fileID: 2100000, guid: ce6846b6b5ba77f4e83630cc67fcd60d, type: 2}
   notEnoughMoneyColor: {fileID: 2100000, guid: d039561a0d242784196a9f282d2d2c08, type: 2}
   turrent: {fileID: 0}
+  turrentBlueprint:
+    prefab: {fileID: 0}
+    cost: 0
+    upgradedPrefab: {fileID: 0}
+    upgradedCost: 0
+  isUpgraded: 0
   buildingRadius: 4
   positionOffset: {x: 0, y: 3, z: 0}
 --- !u!65 &382382140
@@ -6398,6 +6638,12 @@ MonoBehaviour:
   hoverColor: {fileID: 2100000, guid: ce6846b6b5ba77f4e83630cc67fcd60d, type: 2}
   notEnoughMoneyColor: {fileID: 2100000, guid: d039561a0d242784196a9f282d2d2c08, type: 2}
   turrent: {fileID: 0}
+  turrentBlueprint:
+    prefab: {fileID: 0}
+    cost: 0
+    upgradedPrefab: {fileID: 0}
+    upgradedCost: 0
+  isUpgraded: 0
   buildingRadius: 4
   positionOffset: {x: 0, y: 3, z: 0}
 --- !u!65 &404814530
@@ -6433,6 +6679,12 @@ MonoBehaviour:
   hoverColor: {fileID: 2100000, guid: ce6846b6b5ba77f4e83630cc67fcd60d, type: 2}
   notEnoughMoneyColor: {fileID: 2100000, guid: d039561a0d242784196a9f282d2d2c08, type: 2}
   turrent: {fileID: 0}
+  turrentBlueprint:
+    prefab: {fileID: 0}
+    cost: 0
+    upgradedPrefab: {fileID: 0}
+    upgradedCost: 0
+  isUpgraded: 0
   buildingRadius: 4
   positionOffset: {x: 0, y: 3, z: 0}
 --- !u!65 &411335100
@@ -6565,6 +6817,12 @@ MonoBehaviour:
   hoverColor: {fileID: 2100000, guid: ce6846b6b5ba77f4e83630cc67fcd60d, type: 2}
   notEnoughMoneyColor: {fileID: 2100000, guid: d039561a0d242784196a9f282d2d2c08, type: 2}
   turrent: {fileID: 0}
+  turrentBlueprint:
+    prefab: {fileID: 0}
+    cost: 0
+    upgradedPrefab: {fileID: 0}
+    upgradedCost: 0
+  isUpgraded: 0
   buildingRadius: 4
   positionOffset: {x: 0, y: 3, z: 0}
 --- !u!65 &422767004
@@ -6749,6 +7007,12 @@ MonoBehaviour:
   hoverColor: {fileID: 2100000, guid: ce6846b6b5ba77f4e83630cc67fcd60d, type: 2}
   notEnoughMoneyColor: {fileID: 2100000, guid: d039561a0d242784196a9f282d2d2c08, type: 2}
   turrent: {fileID: 0}
+  turrentBlueprint:
+    prefab: {fileID: 0}
+    cost: 0
+    upgradedPrefab: {fileID: 0}
+    upgradedCost: 0
+  isUpgraded: 0
   buildingRadius: 4
   positionOffset: {x: 0, y: 3, z: 0}
 --- !u!65 &440719860
@@ -6784,6 +7048,12 @@ MonoBehaviour:
   hoverColor: {fileID: 2100000, guid: ce6846b6b5ba77f4e83630cc67fcd60d, type: 2}
   notEnoughMoneyColor: {fileID: 2100000, guid: d039561a0d242784196a9f282d2d2c08, type: 2}
   turrent: {fileID: 0}
+  turrentBlueprint:
+    prefab: {fileID: 0}
+    cost: 0
+    upgradedPrefab: {fileID: 0}
+    upgradedCost: 0
+  isUpgraded: 0
   buildingRadius: 4
   positionOffset: {x: 0, y: 3, z: 0}
 --- !u!65 &443829298
@@ -6819,6 +7089,12 @@ MonoBehaviour:
   hoverColor: {fileID: 2100000, guid: ce6846b6b5ba77f4e83630cc67fcd60d, type: 2}
   notEnoughMoneyColor: {fileID: 2100000, guid: d039561a0d242784196a9f282d2d2c08, type: 2}
   turrent: {fileID: 0}
+  turrentBlueprint:
+    prefab: {fileID: 0}
+    cost: 0
+    upgradedPrefab: {fileID: 0}
+    upgradedCost: 0
+  isUpgraded: 0
   buildingRadius: 4
   positionOffset: {x: 0, y: 3, z: 0}
 --- !u!65 &444546057
@@ -6923,6 +7199,12 @@ MonoBehaviour:
   hoverColor: {fileID: 2100000, guid: ce6846b6b5ba77f4e83630cc67fcd60d, type: 2}
   notEnoughMoneyColor: {fileID: 2100000, guid: d039561a0d242784196a9f282d2d2c08, type: 2}
   turrent: {fileID: 0}
+  turrentBlueprint:
+    prefab: {fileID: 0}
+    cost: 0
+    upgradedPrefab: {fileID: 0}
+    upgradedCost: 0
+  isUpgraded: 0
   buildingRadius: 4
   positionOffset: {x: 0, y: 3, z: 0}
 --- !u!65 &449293213
@@ -7180,6 +7462,12 @@ MonoBehaviour:
   hoverColor: {fileID: 2100000, guid: ce6846b6b5ba77f4e83630cc67fcd60d, type: 2}
   notEnoughMoneyColor: {fileID: 2100000, guid: d039561a0d242784196a9f282d2d2c08, type: 2}
   turrent: {fileID: 0}
+  turrentBlueprint:
+    prefab: {fileID: 0}
+    cost: 0
+    upgradedPrefab: {fileID: 0}
+    upgradedCost: 0
+  isUpgraded: 0
   buildingRadius: 4
   positionOffset: {x: 0, y: 3, z: 0}
 --- !u!65 &471342626
@@ -7215,6 +7503,12 @@ MonoBehaviour:
   hoverColor: {fileID: 2100000, guid: ce6846b6b5ba77f4e83630cc67fcd60d, type: 2}
   notEnoughMoneyColor: {fileID: 2100000, guid: d039561a0d242784196a9f282d2d2c08, type: 2}
   turrent: {fileID: 0}
+  turrentBlueprint:
+    prefab: {fileID: 0}
+    cost: 0
+    upgradedPrefab: {fileID: 0}
+    upgradedCost: 0
+  isUpgraded: 0
   buildingRadius: 4
   positionOffset: {x: 0, y: 3, z: 0}
 --- !u!65 &473104400
@@ -8375,6 +8669,12 @@ MonoBehaviour:
   hoverColor: {fileID: 2100000, guid: ce6846b6b5ba77f4e83630cc67fcd60d, type: 2}
   notEnoughMoneyColor: {fileID: 2100000, guid: d039561a0d242784196a9f282d2d2c08, type: 2}
   turrent: {fileID: 0}
+  turrentBlueprint:
+    prefab: {fileID: 0}
+    cost: 0
+    upgradedPrefab: {fileID: 0}
+    upgradedCost: 0
+  isUpgraded: 0
   buildingRadius: 4
   positionOffset: {x: 0, y: 3, z: 0}
 --- !u!65 &547196894
@@ -8558,6 +8858,12 @@ MonoBehaviour:
   hoverColor: {fileID: 2100000, guid: ce6846b6b5ba77f4e83630cc67fcd60d, type: 2}
   notEnoughMoneyColor: {fileID: 2100000, guid: d039561a0d242784196a9f282d2d2c08, type: 2}
   turrent: {fileID: 0}
+  turrentBlueprint:
+    prefab: {fileID: 0}
+    cost: 0
+    upgradedPrefab: {fileID: 0}
+    upgradedCost: 0
+  isUpgraded: 0
   buildingRadius: 4
   positionOffset: {x: 0, y: 3, z: 0}
 --- !u!65 &576800867
@@ -8603,7 +8909,7 @@ RectTransform:
   m_Children:
   - {fileID: 1937281718}
   m_Father: {fileID: 601321136}
-  m_RootOrder: 0
+  m_RootOrder: 1
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
@@ -8625,15 +8931,23 @@ MonoBehaviour:
   turrentLevel_1:
     prefab: {fileID: 7721117775903458191, guid: e50f55932ead89e4ea5c8c8ec9aa05e1, type: 3}
     cost: 100
+    upgradedPrefab: {fileID: 6433149097136676807, guid: 7ab066b17ed185343819e63bd98bb94b, type: 3}
+    upgradedCost: 70
   turrentLevel_2:
     prefab: {fileID: 3762993441518410836, guid: 1cec87efd2bf23041b82c60b73ffce12, type: 3}
     cost: 200
+    upgradedPrefab: {fileID: 4695155361769346054, guid: 795d2d1e11b277c49aecaffca6e41ec3, type: 3}
+    upgradedCost: 150
   turrentLevel_3:
     prefab: {fileID: 983073403532204184, guid: 12e80023607d4964b9a5596802104de2, type: 3}
     cost: 300
+    upgradedPrefab: {fileID: 8836123806005892948, guid: 95e09c1b585a5b84382e0e529e361292, type: 3}
+    upgradedCost: 200
   mageTower:
     prefab: {fileID: 2969366649582531394, guid: 082ff5a3b3b897a459ebcfd1fd3aba30, type: 3}
     cost: 400
+    upgradedPrefab: {fileID: 1417413955819505411, guid: 440e000cd6bb8634c89b088f5e663dc1, type: 3}
+    upgradedCost: 250
 --- !u!1 &595200666 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 1560257132984952, guid: 5cbae0602ce9acf41a98fda3a353569a, type: 3}
@@ -8654,6 +8968,12 @@ MonoBehaviour:
   hoverColor: {fileID: 2100000, guid: ce6846b6b5ba77f4e83630cc67fcd60d, type: 2}
   notEnoughMoneyColor: {fileID: 2100000, guid: d039561a0d242784196a9f282d2d2c08, type: 2}
   turrent: {fileID: 0}
+  turrentBlueprint:
+    prefab: {fileID: 0}
+    cost: 0
+    upgradedPrefab: {fileID: 0}
+    upgradedCost: 0
+  isUpgraded: 0
   buildingRadius: 4
   positionOffset: {x: 0, y: 3, z: 0}
 --- !u!65 &595200670
@@ -8689,6 +9009,12 @@ MonoBehaviour:
   hoverColor: {fileID: 2100000, guid: ce6846b6b5ba77f4e83630cc67fcd60d, type: 2}
   notEnoughMoneyColor: {fileID: 2100000, guid: d039561a0d242784196a9f282d2d2c08, type: 2}
   turrent: {fileID: 0}
+  turrentBlueprint:
+    prefab: {fileID: 0}
+    cost: 0
+    upgradedPrefab: {fileID: 0}
+    upgradedCost: 0
+  isUpgraded: 0
   buildingRadius: 4
   positionOffset: {x: 0, y: 3, z: 0}
 --- !u!65 &596823362
@@ -8716,6 +9042,7 @@ GameObject:
   - component: {fileID: 601321135}
   - component: {fileID: 601321134}
   - component: {fileID: 601321133}
+  - component: {fileID: 601321137}
   m_Layer: 5
   m_Name: OvarCanvas
   m_TagString: Untagged
@@ -8795,6 +9122,7 @@ RectTransform:
   m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 0, y: 0, z: 0}
   m_Children:
+  - {fileID: 1430392472}
   - {fileID: 594037291}
   - {fileID: 1893032295}
   - {fileID: 369028247}
@@ -8806,6 +9134,22 @@ RectTransform:
   m_AnchoredPosition: {x: 0, y: 0}
   m_SizeDelta: {x: 0, y: 0}
   m_Pivot: {x: 0, y: 0}
+--- !u!114 &601321137
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 601321132}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a3c282b94d471b544b95fe0f383713bc, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  gameOverUI: {fileID: 1430392471}
+  moneyUI: {fileID: 369028246}
+  shopUI: {fileID: 594037290}
+  livesUI: {fileID: 1893032294}
 --- !u!1 &605374693 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 1560257132984952, guid: 5cbae0602ce9acf41a98fda3a353569a, type: 3}
@@ -8826,6 +9170,12 @@ MonoBehaviour:
   hoverColor: {fileID: 2100000, guid: ce6846b6b5ba77f4e83630cc67fcd60d, type: 2}
   notEnoughMoneyColor: {fileID: 2100000, guid: d039561a0d242784196a9f282d2d2c08, type: 2}
   turrent: {fileID: 0}
+  turrentBlueprint:
+    prefab: {fileID: 0}
+    cost: 0
+    upgradedPrefab: {fileID: 0}
+    upgradedCost: 0
+  isUpgraded: 0
   buildingRadius: 4
   positionOffset: {x: 0, y: 3, z: 0}
 --- !u!65 &605374697
@@ -9071,6 +9421,12 @@ MonoBehaviour:
   hoverColor: {fileID: 2100000, guid: ce6846b6b5ba77f4e83630cc67fcd60d, type: 2}
   notEnoughMoneyColor: {fileID: 2100000, guid: d039561a0d242784196a9f282d2d2c08, type: 2}
   turrent: {fileID: 0}
+  turrentBlueprint:
+    prefab: {fileID: 0}
+    cost: 0
+    upgradedPrefab: {fileID: 0}
+    upgradedCost: 0
+  isUpgraded: 0
   buildingRadius: 4
   positionOffset: {x: 0, y: 3, z: 0}
 --- !u!65 &620096645
@@ -9185,6 +9541,12 @@ MonoBehaviour:
   hoverColor: {fileID: 2100000, guid: ce6846b6b5ba77f4e83630cc67fcd60d, type: 2}
   notEnoughMoneyColor: {fileID: 2100000, guid: d039561a0d242784196a9f282d2d2c08, type: 2}
   turrent: {fileID: 0}
+  turrentBlueprint:
+    prefab: {fileID: 0}
+    cost: 0
+    upgradedPrefab: {fileID: 0}
+    upgradedCost: 0
+  isUpgraded: 0
   buildingRadius: 4
   positionOffset: {x: 0, y: 3, z: 0}
 --- !u!65 &629407047
@@ -9368,6 +9730,12 @@ MonoBehaviour:
   hoverColor: {fileID: 2100000, guid: ce6846b6b5ba77f4e83630cc67fcd60d, type: 2}
   notEnoughMoneyColor: {fileID: 2100000, guid: d039561a0d242784196a9f282d2d2c08, type: 2}
   turrent: {fileID: 0}
+  turrentBlueprint:
+    prefab: {fileID: 0}
+    cost: 0
+    upgradedPrefab: {fileID: 0}
+    upgradedCost: 0
+  isUpgraded: 0
   buildingRadius: 4
   positionOffset: {x: 0, y: 3, z: 0}
 --- !u!65 &640087935
@@ -9574,6 +9942,12 @@ MonoBehaviour:
   hoverColor: {fileID: 2100000, guid: ce6846b6b5ba77f4e83630cc67fcd60d, type: 2}
   notEnoughMoneyColor: {fileID: 2100000, guid: d039561a0d242784196a9f282d2d2c08, type: 2}
   turrent: {fileID: 0}
+  turrentBlueprint:
+    prefab: {fileID: 0}
+    cost: 0
+    upgradedPrefab: {fileID: 0}
+    upgradedCost: 0
+  isUpgraded: 0
   buildingRadius: 4
   positionOffset: {x: 0, y: 3, z: 0}
 --- !u!65 &666735585
@@ -9683,6 +10057,12 @@ MonoBehaviour:
   hoverColor: {fileID: 2100000, guid: ce6846b6b5ba77f4e83630cc67fcd60d, type: 2}
   notEnoughMoneyColor: {fileID: 2100000, guid: d039561a0d242784196a9f282d2d2c08, type: 2}
   turrent: {fileID: 0}
+  turrentBlueprint:
+    prefab: {fileID: 0}
+    cost: 0
+    upgradedPrefab: {fileID: 0}
+    upgradedCost: 0
+  isUpgraded: 0
   buildingRadius: 4
   positionOffset: {x: 0, y: 3, z: 0}
 --- !u!65 &674098106
@@ -9797,6 +10177,12 @@ MonoBehaviour:
   hoverColor: {fileID: 2100000, guid: ce6846b6b5ba77f4e83630cc67fcd60d, type: 2}
   notEnoughMoneyColor: {fileID: 2100000, guid: d039561a0d242784196a9f282d2d2c08, type: 2}
   turrent: {fileID: 0}
+  turrentBlueprint:
+    prefab: {fileID: 0}
+    cost: 0
+    upgradedPrefab: {fileID: 0}
+    upgradedCost: 0
+  isUpgraded: 0
   buildingRadius: 4
   positionOffset: {x: 0, y: 3, z: 0}
 --- !u!65 &681679141
@@ -9924,6 +10310,12 @@ MonoBehaviour:
   hoverColor: {fileID: 2100000, guid: ce6846b6b5ba77f4e83630cc67fcd60d, type: 2}
   notEnoughMoneyColor: {fileID: 2100000, guid: d039561a0d242784196a9f282d2d2c08, type: 2}
   turrent: {fileID: 0}
+  turrentBlueprint:
+    prefab: {fileID: 0}
+    cost: 0
+    upgradedPrefab: {fileID: 0}
+    upgradedCost: 0
+  isUpgraded: 0
   buildingRadius: 4
   positionOffset: {x: 0, y: 3, z: 0}
 --- !u!65 &700327197
@@ -10288,6 +10680,12 @@ MonoBehaviour:
   hoverColor: {fileID: 2100000, guid: ce6846b6b5ba77f4e83630cc67fcd60d, type: 2}
   notEnoughMoneyColor: {fileID: 2100000, guid: d039561a0d242784196a9f282d2d2c08, type: 2}
   turrent: {fileID: 0}
+  turrentBlueprint:
+    prefab: {fileID: 0}
+    cost: 0
+    upgradedPrefab: {fileID: 0}
+    upgradedCost: 0
+  isUpgraded: 0
   buildingRadius: 4
   positionOffset: {x: 0, y: 3, z: 0}
 --- !u!65 &725144553
@@ -10637,6 +11035,12 @@ MonoBehaviour:
   hoverColor: {fileID: 2100000, guid: ce6846b6b5ba77f4e83630cc67fcd60d, type: 2}
   notEnoughMoneyColor: {fileID: 2100000, guid: d039561a0d242784196a9f282d2d2c08, type: 2}
   turrent: {fileID: 0}
+  turrentBlueprint:
+    prefab: {fileID: 0}
+    cost: 0
+    upgradedPrefab: {fileID: 0}
+    upgradedCost: 0
+  isUpgraded: 0
   buildingRadius: 4
   positionOffset: {x: 0, y: 3, z: 0}
 --- !u!65 &734816799
@@ -11186,6 +11590,12 @@ MonoBehaviour:
   hoverColor: {fileID: 2100000, guid: ce6846b6b5ba77f4e83630cc67fcd60d, type: 2}
   notEnoughMoneyColor: {fileID: 2100000, guid: d039561a0d242784196a9f282d2d2c08, type: 2}
   turrent: {fileID: 0}
+  turrentBlueprint:
+    prefab: {fileID: 0}
+    cost: 0
+    upgradedPrefab: {fileID: 0}
+    upgradedCost: 0
+  isUpgraded: 0
   buildingRadius: 4
   positionOffset: {x: 0, y: 3, z: 0}
 --- !u!65 &751532161
@@ -11221,6 +11631,12 @@ MonoBehaviour:
   hoverColor: {fileID: 2100000, guid: ce6846b6b5ba77f4e83630cc67fcd60d, type: 2}
   notEnoughMoneyColor: {fileID: 2100000, guid: d039561a0d242784196a9f282d2d2c08, type: 2}
   turrent: {fileID: 0}
+  turrentBlueprint:
+    prefab: {fileID: 0}
+    cost: 0
+    upgradedPrefab: {fileID: 0}
+    upgradedCost: 0
+  isUpgraded: 0
   buildingRadius: 4
   positionOffset: {x: 0, y: 3, z: 0}
 --- !u!65 &758995364
@@ -11404,6 +11820,12 @@ MonoBehaviour:
   hoverColor: {fileID: 2100000, guid: ce6846b6b5ba77f4e83630cc67fcd60d, type: 2}
   notEnoughMoneyColor: {fileID: 2100000, guid: d039561a0d242784196a9f282d2d2c08, type: 2}
   turrent: {fileID: 0}
+  turrentBlueprint:
+    prefab: {fileID: 0}
+    cost: 0
+    upgradedPrefab: {fileID: 0}
+    upgradedCost: 0
+  isUpgraded: 0
   buildingRadius: 4
   positionOffset: {x: 0, y: 3, z: 0}
 --- !u!65 &767262146
@@ -11620,6 +12042,12 @@ MonoBehaviour:
   hoverColor: {fileID: 2100000, guid: ce6846b6b5ba77f4e83630cc67fcd60d, type: 2}
   notEnoughMoneyColor: {fileID: 2100000, guid: d039561a0d242784196a9f282d2d2c08, type: 2}
   turrent: {fileID: 0}
+  turrentBlueprint:
+    prefab: {fileID: 0}
+    cost: 0
+    upgradedPrefab: {fileID: 0}
+    upgradedCost: 0
+  isUpgraded: 0
   buildingRadius: 4
   positionOffset: {x: 0, y: 3, z: 0}
 --- !u!65 &791804475
@@ -11724,6 +12152,12 @@ MonoBehaviour:
   hoverColor: {fileID: 2100000, guid: ce6846b6b5ba77f4e83630cc67fcd60d, type: 2}
   notEnoughMoneyColor: {fileID: 2100000, guid: d039561a0d242784196a9f282d2d2c08, type: 2}
   turrent: {fileID: 0}
+  turrentBlueprint:
+    prefab: {fileID: 0}
+    cost: 0
+    upgradedPrefab: {fileID: 0}
+    upgradedCost: 0
+  isUpgraded: 0
   buildingRadius: 4
   positionOffset: {x: 0, y: 3, z: 0}
 --- !u!65 &799071274
@@ -11759,6 +12193,12 @@ MonoBehaviour:
   hoverColor: {fileID: 2100000, guid: ce6846b6b5ba77f4e83630cc67fcd60d, type: 2}
   notEnoughMoneyColor: {fileID: 2100000, guid: d039561a0d242784196a9f282d2d2c08, type: 2}
   turrent: {fileID: 0}
+  turrentBlueprint:
+    prefab: {fileID: 0}
+    cost: 0
+    upgradedPrefab: {fileID: 0}
+    upgradedCost: 0
+  isUpgraded: 0
   buildingRadius: 4
   positionOffset: {x: 0, y: 3, z: 0}
 --- !u!65 &821590326
@@ -11794,6 +12234,12 @@ MonoBehaviour:
   hoverColor: {fileID: 2100000, guid: ce6846b6b5ba77f4e83630cc67fcd60d, type: 2}
   notEnoughMoneyColor: {fileID: 2100000, guid: d039561a0d242784196a9f282d2d2c08, type: 2}
   turrent: {fileID: 0}
+  turrentBlueprint:
+    prefab: {fileID: 0}
+    cost: 0
+    upgradedPrefab: {fileID: 0}
+    upgradedCost: 0
+  isUpgraded: 0
   buildingRadius: 4
   positionOffset: {x: 0, y: 3, z: 0}
 --- !u!65 &822525604
@@ -11809,75 +12255,6 @@ BoxCollider:
   serializedVersion: 2
   m_Size: {x: 1.9999998, y: 2, z: 2.0000005}
   m_Center: {x: -0.000000923872, y: 0, z: 0}
---- !u!1001 &828883464
-PrefabInstance:
-  m_ObjectHideFlags: 0
-  serializedVersion: 2
-  m_Modification:
-    m_TransformParent: {fileID: 0}
-    m_Modifications:
-    - target: {fileID: 3759697730464322612, guid: 1cec87efd2bf23041b82c60b73ffce12, type: 3}
-      propertyPath: m_RootOrder
-      value: 11
-      objectReference: {fileID: 0}
-    - target: {fileID: 3759697730464322612, guid: 1cec87efd2bf23041b82c60b73ffce12, type: 3}
-      propertyPath: m_LocalScale.x
-      value: 5
-      objectReference: {fileID: 0}
-    - target: {fileID: 3759697730464322612, guid: 1cec87efd2bf23041b82c60b73ffce12, type: 3}
-      propertyPath: m_LocalScale.y
-      value: 5
-      objectReference: {fileID: 0}
-    - target: {fileID: 3759697730464322612, guid: 1cec87efd2bf23041b82c60b73ffce12, type: 3}
-      propertyPath: m_LocalScale.z
-      value: 5
-      objectReference: {fileID: 0}
-    - target: {fileID: 3759697730464322612, guid: 1cec87efd2bf23041b82c60b73ffce12, type: 3}
-      propertyPath: m_LocalPosition.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 3759697730464322612, guid: 1cec87efd2bf23041b82c60b73ffce12, type: 3}
-      propertyPath: m_LocalPosition.y
-      value: 6
-      objectReference: {fileID: 0}
-    - target: {fileID: 3759697730464322612, guid: 1cec87efd2bf23041b82c60b73ffce12, type: 3}
-      propertyPath: m_LocalPosition.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 3759697730464322612, guid: 1cec87efd2bf23041b82c60b73ffce12, type: 3}
-      propertyPath: m_LocalRotation.w
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 3759697730464322612, guid: 1cec87efd2bf23041b82c60b73ffce12, type: 3}
-      propertyPath: m_LocalRotation.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 3759697730464322612, guid: 1cec87efd2bf23041b82c60b73ffce12, type: 3}
-      propertyPath: m_LocalRotation.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 3759697730464322612, guid: 1cec87efd2bf23041b82c60b73ffce12, type: 3}
-      propertyPath: m_LocalRotation.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 3759697730464322612, guid: 1cec87efd2bf23041b82c60b73ffce12, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 3759697730464322612, guid: 1cec87efd2bf23041b82c60b73ffce12, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 3759697730464322612, guid: 1cec87efd2bf23041b82c60b73ffce12, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 3762993441518410836, guid: 1cec87efd2bf23041b82c60b73ffce12, type: 3}
-      propertyPath: m_Name
-      value: TowerLevel_2
-      objectReference: {fileID: 0}
-    m_RemovedComponents: []
-  m_SourcePrefab: {fileID: 100100000, guid: 1cec87efd2bf23041b82c60b73ffce12, type: 3}
 --- !u!1 &831913734
 GameObject:
   m_ObjectHideFlags: 0
@@ -12208,6 +12585,12 @@ MonoBehaviour:
   hoverColor: {fileID: 2100000, guid: ce6846b6b5ba77f4e83630cc67fcd60d, type: 2}
   notEnoughMoneyColor: {fileID: 2100000, guid: d039561a0d242784196a9f282d2d2c08, type: 2}
   turrent: {fileID: 0}
+  turrentBlueprint:
+    prefab: {fileID: 0}
+    cost: 0
+    upgradedPrefab: {fileID: 0}
+    upgradedCost: 0
+  isUpgraded: 0
   buildingRadius: 4
   positionOffset: {x: 0, y: 3, z: 0}
 --- !u!65 &835837305
@@ -12317,6 +12700,12 @@ MonoBehaviour:
   hoverColor: {fileID: 2100000, guid: ce6846b6b5ba77f4e83630cc67fcd60d, type: 2}
   notEnoughMoneyColor: {fileID: 2100000, guid: d039561a0d242784196a9f282d2d2c08, type: 2}
   turrent: {fileID: 0}
+  turrentBlueprint:
+    prefab: {fileID: 0}
+    cost: 0
+    upgradedPrefab: {fileID: 0}
+    upgradedCost: 0
+  isUpgraded: 0
   buildingRadius: 4
   positionOffset: {x: 0, y: 3, z: 0}
 --- !u!65 &839888067
@@ -12500,6 +12889,12 @@ MonoBehaviour:
   hoverColor: {fileID: 2100000, guid: ce6846b6b5ba77f4e83630cc67fcd60d, type: 2}
   notEnoughMoneyColor: {fileID: 2100000, guid: d039561a0d242784196a9f282d2d2c08, type: 2}
   turrent: {fileID: 0}
+  turrentBlueprint:
+    prefab: {fileID: 0}
+    cost: 0
+    upgradedPrefab: {fileID: 0}
+    upgradedCost: 0
+  isUpgraded: 0
   buildingRadius: 4
   positionOffset: {x: 0, y: 3, z: 0}
 --- !u!65 &844886908
@@ -12540,6 +12935,12 @@ MonoBehaviour:
   hoverColor: {fileID: 2100000, guid: ce6846b6b5ba77f4e83630cc67fcd60d, type: 2}
   notEnoughMoneyColor: {fileID: 2100000, guid: d039561a0d242784196a9f282d2d2c08, type: 2}
   turrent: {fileID: 0}
+  turrentBlueprint:
+    prefab: {fileID: 0}
+    cost: 0
+    upgradedPrefab: {fileID: 0}
+    upgradedCost: 0
+  isUpgraded: 0
   buildingRadius: 4
   positionOffset: {x: 0, y: 3, z: 0}
 --- !u!65 &847707626
@@ -12713,6 +13114,12 @@ MonoBehaviour:
   hoverColor: {fileID: 2100000, guid: ce6846b6b5ba77f4e83630cc67fcd60d, type: 2}
   notEnoughMoneyColor: {fileID: 2100000, guid: d039561a0d242784196a9f282d2d2c08, type: 2}
   turrent: {fileID: 0}
+  turrentBlueprint:
+    prefab: {fileID: 0}
+    cost: 0
+    upgradedPrefab: {fileID: 0}
+    upgradedCost: 0
+  isUpgraded: 0
   buildingRadius: 4
   positionOffset: {x: 0, y: 3, z: 0}
 --- !u!65 &853023129
@@ -12822,6 +13229,12 @@ MonoBehaviour:
   hoverColor: {fileID: 2100000, guid: ce6846b6b5ba77f4e83630cc67fcd60d, type: 2}
   notEnoughMoneyColor: {fileID: 2100000, guid: d039561a0d242784196a9f282d2d2c08, type: 2}
   turrent: {fileID: 0}
+  turrentBlueprint:
+    prefab: {fileID: 0}
+    cost: 0
+    upgradedPrefab: {fileID: 0}
+    upgradedCost: 0
+  isUpgraded: 0
   buildingRadius: 4
   positionOffset: {x: 0, y: 3, z: 0}
 --- !u!65 &854646158
@@ -12862,6 +13275,12 @@ MonoBehaviour:
   hoverColor: {fileID: 2100000, guid: ce6846b6b5ba77f4e83630cc67fcd60d, type: 2}
   notEnoughMoneyColor: {fileID: 2100000, guid: d039561a0d242784196a9f282d2d2c08, type: 2}
   turrent: {fileID: 0}
+  turrentBlueprint:
+    prefab: {fileID: 0}
+    cost: 0
+    upgradedPrefab: {fileID: 0}
+    upgradedCost: 0
+  isUpgraded: 0
   buildingRadius: 4
   positionOffset: {x: 0, y: 3, z: 0}
 --- !u!65 &862269059
@@ -13040,6 +13459,12 @@ MonoBehaviour:
   hoverColor: {fileID: 2100000, guid: ce6846b6b5ba77f4e83630cc67fcd60d, type: 2}
   notEnoughMoneyColor: {fileID: 2100000, guid: d039561a0d242784196a9f282d2d2c08, type: 2}
   turrent: {fileID: 0}
+  turrentBlueprint:
+    prefab: {fileID: 0}
+    cost: 0
+    upgradedPrefab: {fileID: 0}
+    upgradedCost: 0
+  isUpgraded: 0
   buildingRadius: 4
   positionOffset: {x: 0, y: 3, z: 0}
 --- !u!65 &871797879
@@ -13810,6 +14235,12 @@ MonoBehaviour:
   hoverColor: {fileID: 2100000, guid: ce6846b6b5ba77f4e83630cc67fcd60d, type: 2}
   notEnoughMoneyColor: {fileID: 2100000, guid: d039561a0d242784196a9f282d2d2c08, type: 2}
   turrent: {fileID: 0}
+  turrentBlueprint:
+    prefab: {fileID: 0}
+    cost: 0
+    upgradedPrefab: {fileID: 0}
+    upgradedCost: 0
+  isUpgraded: 0
   buildingRadius: 4
   positionOffset: {x: 0, y: 3, z: 0}
 --- !u!65 &946195214
@@ -13919,6 +14350,12 @@ MonoBehaviour:
   hoverColor: {fileID: 2100000, guid: ce6846b6b5ba77f4e83630cc67fcd60d, type: 2}
   notEnoughMoneyColor: {fileID: 2100000, guid: d039561a0d242784196a9f282d2d2c08, type: 2}
   turrent: {fileID: 0}
+  turrentBlueprint:
+    prefab: {fileID: 0}
+    cost: 0
+    upgradedPrefab: {fileID: 0}
+    upgradedCost: 0
+  isUpgraded: 0
   buildingRadius: 4
   positionOffset: {x: 0, y: 3, z: 0}
 --- !u!65 &951127041
@@ -13954,6 +14391,12 @@ MonoBehaviour:
   hoverColor: {fileID: 2100000, guid: ce6846b6b5ba77f4e83630cc67fcd60d, type: 2}
   notEnoughMoneyColor: {fileID: 2100000, guid: d039561a0d242784196a9f282d2d2c08, type: 2}
   turrent: {fileID: 0}
+  turrentBlueprint:
+    prefab: {fileID: 0}
+    cost: 0
+    upgradedPrefab: {fileID: 0}
+    upgradedCost: 0
+  isUpgraded: 0
   buildingRadius: 4
   positionOffset: {x: 0, y: 3, z: 0}
 --- !u!65 &954477845
@@ -14455,6 +14898,12 @@ MonoBehaviour:
   hoverColor: {fileID: 2100000, guid: ce6846b6b5ba77f4e83630cc67fcd60d, type: 2}
   notEnoughMoneyColor: {fileID: 2100000, guid: d039561a0d242784196a9f282d2d2c08, type: 2}
   turrent: {fileID: 0}
+  turrentBlueprint:
+    prefab: {fileID: 0}
+    cost: 0
+    upgradedPrefab: {fileID: 0}
+    upgradedCost: 0
+  isUpgraded: 0
   buildingRadius: 4
   positionOffset: {x: 0, y: 3, z: 0}
 --- !u!65 &991277075
@@ -14592,6 +15041,12 @@ MonoBehaviour:
   hoverColor: {fileID: 2100000, guid: ce6846b6b5ba77f4e83630cc67fcd60d, type: 2}
   notEnoughMoneyColor: {fileID: 2100000, guid: d039561a0d242784196a9f282d2d2c08, type: 2}
   turrent: {fileID: 0}
+  turrentBlueprint:
+    prefab: {fileID: 0}
+    cost: 0
+    upgradedPrefab: {fileID: 0}
+    upgradedCost: 0
+  isUpgraded: 0
   buildingRadius: 4
   positionOffset: {x: 0, y: 3, z: 0}
 --- !u!65 &1021096376
@@ -14627,6 +15082,12 @@ MonoBehaviour:
   hoverColor: {fileID: 2100000, guid: ce6846b6b5ba77f4e83630cc67fcd60d, type: 2}
   notEnoughMoneyColor: {fileID: 2100000, guid: d039561a0d242784196a9f282d2d2c08, type: 2}
   turrent: {fileID: 0}
+  turrentBlueprint:
+    prefab: {fileID: 0}
+    cost: 0
+    upgradedPrefab: {fileID: 0}
+    upgradedCost: 0
+  isUpgraded: 0
   buildingRadius: 4
   positionOffset: {x: 0, y: 3, z: 0}
 --- !u!65 &1022780953
@@ -14736,6 +15197,12 @@ MonoBehaviour:
   hoverColor: {fileID: 2100000, guid: ce6846b6b5ba77f4e83630cc67fcd60d, type: 2}
   notEnoughMoneyColor: {fileID: 2100000, guid: d039561a0d242784196a9f282d2d2c08, type: 2}
   turrent: {fileID: 0}
+  turrentBlueprint:
+    prefab: {fileID: 0}
+    cost: 0
+    upgradedPrefab: {fileID: 0}
+    upgradedCost: 0
+  isUpgraded: 0
   buildingRadius: 4
   positionOffset: {x: 0, y: 3, z: 0}
 --- !u!65 &1033436919
@@ -14771,6 +15238,12 @@ MonoBehaviour:
   hoverColor: {fileID: 2100000, guid: ce6846b6b5ba77f4e83630cc67fcd60d, type: 2}
   notEnoughMoneyColor: {fileID: 2100000, guid: d039561a0d242784196a9f282d2d2c08, type: 2}
   turrent: {fileID: 0}
+  turrentBlueprint:
+    prefab: {fileID: 0}
+    cost: 0
+    upgradedPrefab: {fileID: 0}
+    upgradedCost: 0
+  isUpgraded: 0
   buildingRadius: 4
   positionOffset: {x: 0, y: 3, z: 0}
 --- !u!65 &1042525989
@@ -14885,6 +15358,12 @@ MonoBehaviour:
   hoverColor: {fileID: 2100000, guid: ce6846b6b5ba77f4e83630cc67fcd60d, type: 2}
   notEnoughMoneyColor: {fileID: 2100000, guid: d039561a0d242784196a9f282d2d2c08, type: 2}
   turrent: {fileID: 0}
+  turrentBlueprint:
+    prefab: {fileID: 0}
+    cost: 0
+    upgradedPrefab: {fileID: 0}
+    upgradedCost: 0
+  isUpgraded: 0
   buildingRadius: 4
   positionOffset: {x: 0, y: 3, z: 0}
 --- !u!65 &1051002300
@@ -14999,6 +15478,12 @@ MonoBehaviour:
   hoverColor: {fileID: 2100000, guid: ce6846b6b5ba77f4e83630cc67fcd60d, type: 2}
   notEnoughMoneyColor: {fileID: 2100000, guid: d039561a0d242784196a9f282d2d2c08, type: 2}
   turrent: {fileID: 0}
+  turrentBlueprint:
+    prefab: {fileID: 0}
+    cost: 0
+    upgradedPrefab: {fileID: 0}
+    upgradedCost: 0
+  isUpgraded: 0
   buildingRadius: 4
   positionOffset: {x: 0, y: 3, z: 0}
 --- !u!65 &1057873938
@@ -15409,6 +15894,12 @@ MonoBehaviour:
   hoverColor: {fileID: 2100000, guid: ce6846b6b5ba77f4e83630cc67fcd60d, type: 2}
   notEnoughMoneyColor: {fileID: 2100000, guid: d039561a0d242784196a9f282d2d2c08, type: 2}
   turrent: {fileID: 0}
+  turrentBlueprint:
+    prefab: {fileID: 0}
+    cost: 0
+    upgradedPrefab: {fileID: 0}
+    upgradedCost: 0
+  isUpgraded: 0
   buildingRadius: 4
   positionOffset: {x: 0, y: 3, z: 0}
 --- !u!65 &1080250455
@@ -15513,6 +16004,12 @@ MonoBehaviour:
   hoverColor: {fileID: 2100000, guid: ce6846b6b5ba77f4e83630cc67fcd60d, type: 2}
   notEnoughMoneyColor: {fileID: 2100000, guid: d039561a0d242784196a9f282d2d2c08, type: 2}
   turrent: {fileID: 0}
+  turrentBlueprint:
+    prefab: {fileID: 0}
+    cost: 0
+    upgradedPrefab: {fileID: 0}
+    upgradedCost: 0
+  isUpgraded: 0
   buildingRadius: 4
   positionOffset: {x: 0, y: 3, z: 0}
 --- !u!65 &1088598920
@@ -15622,6 +16119,12 @@ MonoBehaviour:
   hoverColor: {fileID: 2100000, guid: ce6846b6b5ba77f4e83630cc67fcd60d, type: 2}
   notEnoughMoneyColor: {fileID: 2100000, guid: d039561a0d242784196a9f282d2d2c08, type: 2}
   turrent: {fileID: 0}
+  turrentBlueprint:
+    prefab: {fileID: 0}
+    cost: 0
+    upgradedPrefab: {fileID: 0}
+    upgradedCost: 0
+  isUpgraded: 0
   buildingRadius: 4
   positionOffset: {x: 0, y: 3, z: 0}
 --- !u!65 &1099615829
@@ -15657,6 +16160,12 @@ MonoBehaviour:
   hoverColor: {fileID: 2100000, guid: ce6846b6b5ba77f4e83630cc67fcd60d, type: 2}
   notEnoughMoneyColor: {fileID: 2100000, guid: d039561a0d242784196a9f282d2d2c08, type: 2}
   turrent: {fileID: 0}
+  turrentBlueprint:
+    prefab: {fileID: 0}
+    cost: 0
+    upgradedPrefab: {fileID: 0}
+    upgradedCost: 0
+  isUpgraded: 0
   buildingRadius: 4
   positionOffset: {x: 0, y: 3, z: 0}
 --- !u!65 &1103714330
@@ -15840,6 +16349,12 @@ MonoBehaviour:
   hoverColor: {fileID: 2100000, guid: ce6846b6b5ba77f4e83630cc67fcd60d, type: 2}
   notEnoughMoneyColor: {fileID: 2100000, guid: d039561a0d242784196a9f282d2d2c08, type: 2}
   turrent: {fileID: 0}
+  turrentBlueprint:
+    prefab: {fileID: 0}
+    cost: 0
+    upgradedPrefab: {fileID: 0}
+    upgradedCost: 0
+  isUpgraded: 0
   buildingRadius: 4
   positionOffset: {x: 0, y: 3, z: 0}
 --- !u!65 &1115071245
@@ -16475,6 +16990,12 @@ MonoBehaviour:
   hoverColor: {fileID: 2100000, guid: ce6846b6b5ba77f4e83630cc67fcd60d, type: 2}
   notEnoughMoneyColor: {fileID: 2100000, guid: d039561a0d242784196a9f282d2d2c08, type: 2}
   turrent: {fileID: 0}
+  turrentBlueprint:
+    prefab: {fileID: 0}
+    cost: 0
+    upgradedPrefab: {fileID: 0}
+    upgradedCost: 0
+  isUpgraded: 0
   buildingRadius: 4
   positionOffset: {x: 0, y: 3, z: 0}
 --- !u!65 &1155358024
@@ -16589,6 +17110,12 @@ MonoBehaviour:
   hoverColor: {fileID: 2100000, guid: ce6846b6b5ba77f4e83630cc67fcd60d, type: 2}
   notEnoughMoneyColor: {fileID: 2100000, guid: d039561a0d242784196a9f282d2d2c08, type: 2}
   turrent: {fileID: 0}
+  turrentBlueprint:
+    prefab: {fileID: 0}
+    cost: 0
+    upgradedPrefab: {fileID: 0}
+    upgradedCost: 0
+  isUpgraded: 0
   buildingRadius: 4
   positionOffset: {x: 0, y: 3, z: 0}
 --- !u!65 &1158284465
@@ -16624,6 +17151,12 @@ MonoBehaviour:
   hoverColor: {fileID: 2100000, guid: ce6846b6b5ba77f4e83630cc67fcd60d, type: 2}
   notEnoughMoneyColor: {fileID: 2100000, guid: d039561a0d242784196a9f282d2d2c08, type: 2}
   turrent: {fileID: 0}
+  turrentBlueprint:
+    prefab: {fileID: 0}
+    cost: 0
+    upgradedPrefab: {fileID: 0}
+    upgradedCost: 0
+  isUpgraded: 0
   buildingRadius: 4
   positionOffset: {x: 0, y: 3, z: 0}
 --- !u!65 &1168885658
@@ -16733,6 +17266,12 @@ MonoBehaviour:
   hoverColor: {fileID: 2100000, guid: ce6846b6b5ba77f4e83630cc67fcd60d, type: 2}
   notEnoughMoneyColor: {fileID: 2100000, guid: d039561a0d242784196a9f282d2d2c08, type: 2}
   turrent: {fileID: 0}
+  turrentBlueprint:
+    prefab: {fileID: 0}
+    cost: 0
+    upgradedPrefab: {fileID: 0}
+    upgradedCost: 0
+  isUpgraded: 0
   buildingRadius: 4
   positionOffset: {x: 0, y: 3, z: 0}
 --- !u!65 &1177707624
@@ -16916,6 +17455,12 @@ MonoBehaviour:
   hoverColor: {fileID: 2100000, guid: ce6846b6b5ba77f4e83630cc67fcd60d, type: 2}
   notEnoughMoneyColor: {fileID: 2100000, guid: d039561a0d242784196a9f282d2d2c08, type: 2}
   turrent: {fileID: 0}
+  turrentBlueprint:
+    prefab: {fileID: 0}
+    cost: 0
+    upgradedPrefab: {fileID: 0}
+    upgradedCost: 0
+  isUpgraded: 0
   buildingRadius: 4
   positionOffset: {x: 0, y: 3, z: 0}
 --- !u!65 &1210978804
@@ -17094,6 +17639,12 @@ MonoBehaviour:
   hoverColor: {fileID: 2100000, guid: ce6846b6b5ba77f4e83630cc67fcd60d, type: 2}
   notEnoughMoneyColor: {fileID: 2100000, guid: d039561a0d242784196a9f282d2d2c08, type: 2}
   turrent: {fileID: 0}
+  turrentBlueprint:
+    prefab: {fileID: 0}
+    cost: 0
+    upgradedPrefab: {fileID: 0}
+    upgradedCost: 0
+  isUpgraded: 0
   buildingRadius: 4
   positionOffset: {x: 0, y: 3, z: 0}
 --- !u!65 &1221793251
@@ -17277,6 +17828,12 @@ MonoBehaviour:
   hoverColor: {fileID: 2100000, guid: ce6846b6b5ba77f4e83630cc67fcd60d, type: 2}
   notEnoughMoneyColor: {fileID: 2100000, guid: d039561a0d242784196a9f282d2d2c08, type: 2}
   turrent: {fileID: 0}
+  turrentBlueprint:
+    prefab: {fileID: 0}
+    cost: 0
+    upgradedPrefab: {fileID: 0}
+    upgradedCost: 0
+  isUpgraded: 0
   buildingRadius: 4
   positionOffset: {x: 0, y: 3, z: 0}
 --- !u!65 &1234466119
@@ -17884,6 +18441,12 @@ MonoBehaviour:
   hoverColor: {fileID: 2100000, guid: ce6846b6b5ba77f4e83630cc67fcd60d, type: 2}
   notEnoughMoneyColor: {fileID: 2100000, guid: d039561a0d242784196a9f282d2d2c08, type: 2}
   turrent: {fileID: 0}
+  turrentBlueprint:
+    prefab: {fileID: 0}
+    cost: 0
+    upgradedPrefab: {fileID: 0}
+    upgradedCost: 0
+  isUpgraded: 0
   buildingRadius: 4
   positionOffset: {x: 0, y: 3, z: 0}
 --- !u!65 &1268400704
@@ -17919,6 +18482,12 @@ MonoBehaviour:
   hoverColor: {fileID: 2100000, guid: ce6846b6b5ba77f4e83630cc67fcd60d, type: 2}
   notEnoughMoneyColor: {fileID: 2100000, guid: d039561a0d242784196a9f282d2d2c08, type: 2}
   turrent: {fileID: 0}
+  turrentBlueprint:
+    prefab: {fileID: 0}
+    cost: 0
+    upgradedPrefab: {fileID: 0}
+    upgradedCost: 0
+  isUpgraded: 0
   buildingRadius: 4
   positionOffset: {x: 0, y: 3, z: 0}
 --- !u!65 &1272365360
@@ -18490,6 +19059,12 @@ MonoBehaviour:
   hoverColor: {fileID: 2100000, guid: ce6846b6b5ba77f4e83630cc67fcd60d, type: 2}
   notEnoughMoneyColor: {fileID: 2100000, guid: d039561a0d242784196a9f282d2d2c08, type: 2}
   turrent: {fileID: 0}
+  turrentBlueprint:
+    prefab: {fileID: 0}
+    cost: 0
+    upgradedPrefab: {fileID: 0}
+    upgradedCost: 0
+  isUpgraded: 0
   buildingRadius: 4
   positionOffset: {x: 0, y: 3, z: 0}
 --- !u!65 &1300288962
@@ -18525,6 +19100,12 @@ MonoBehaviour:
   hoverColor: {fileID: 2100000, guid: ce6846b6b5ba77f4e83630cc67fcd60d, type: 2}
   notEnoughMoneyColor: {fileID: 2100000, guid: d039561a0d242784196a9f282d2d2c08, type: 2}
   turrent: {fileID: 0}
+  turrentBlueprint:
+    prefab: {fileID: 0}
+    cost: 0
+    upgradedPrefab: {fileID: 0}
+    upgradedCost: 0
+  isUpgraded: 0
   buildingRadius: 4
   positionOffset: {x: 0, y: 3, z: 0}
 --- !u!65 &1301924946
@@ -18767,6 +19348,12 @@ MonoBehaviour:
   hoverColor: {fileID: 2100000, guid: ce6846b6b5ba77f4e83630cc67fcd60d, type: 2}
   notEnoughMoneyColor: {fileID: 2100000, guid: d039561a0d242784196a9f282d2d2c08, type: 2}
   turrent: {fileID: 0}
+  turrentBlueprint:
+    prefab: {fileID: 0}
+    cost: 0
+    upgradedPrefab: {fileID: 0}
+    upgradedCost: 0
+  isUpgraded: 0
   buildingRadius: 4
   positionOffset: {x: 0, y: 3, z: 0}
 --- !u!65 &1316597021
@@ -18950,6 +19537,12 @@ MonoBehaviour:
   hoverColor: {fileID: 2100000, guid: ce6846b6b5ba77f4e83630cc67fcd60d, type: 2}
   notEnoughMoneyColor: {fileID: 2100000, guid: d039561a0d242784196a9f282d2d2c08, type: 2}
   turrent: {fileID: 0}
+  turrentBlueprint:
+    prefab: {fileID: 0}
+    cost: 0
+    upgradedPrefab: {fileID: 0}
+    upgradedCost: 0
+  isUpgraded: 0
   buildingRadius: 4
   positionOffset: {x: 0, y: 3, z: 0}
 --- !u!65 &1321660909
@@ -19202,6 +19795,12 @@ MonoBehaviour:
   hoverColor: {fileID: 2100000, guid: ce6846b6b5ba77f4e83630cc67fcd60d, type: 2}
   notEnoughMoneyColor: {fileID: 2100000, guid: d039561a0d242784196a9f282d2d2c08, type: 2}
   turrent: {fileID: 0}
+  turrentBlueprint:
+    prefab: {fileID: 0}
+    cost: 0
+    upgradedPrefab: {fileID: 0}
+    upgradedCost: 0
+  isUpgraded: 0
   buildingRadius: 4
   positionOffset: {x: 0, y: 3, z: 0}
 --- !u!65 &1335878790
@@ -19237,6 +19836,12 @@ MonoBehaviour:
   hoverColor: {fileID: 2100000, guid: ce6846b6b5ba77f4e83630cc67fcd60d, type: 2}
   notEnoughMoneyColor: {fileID: 2100000, guid: d039561a0d242784196a9f282d2d2c08, type: 2}
   turrent: {fileID: 0}
+  turrentBlueprint:
+    prefab: {fileID: 0}
+    cost: 0
+    upgradedPrefab: {fileID: 0}
+    upgradedCost: 0
+  isUpgraded: 0
   buildingRadius: 4
   positionOffset: {x: 0, y: 3, z: 0}
 --- !u!65 &1346909547
@@ -19272,6 +19877,12 @@ MonoBehaviour:
   hoverColor: {fileID: 2100000, guid: ce6846b6b5ba77f4e83630cc67fcd60d, type: 2}
   notEnoughMoneyColor: {fileID: 2100000, guid: d039561a0d242784196a9f282d2d2c08, type: 2}
   turrent: {fileID: 0}
+  turrentBlueprint:
+    prefab: {fileID: 0}
+    cost: 0
+    upgradedPrefab: {fileID: 0}
+    upgradedCost: 0
+  isUpgraded: 0
   buildingRadius: 4
   positionOffset: {x: 0, y: 3, z: 0}
 --- !u!65 &1373547150
@@ -19530,6 +20141,12 @@ MonoBehaviour:
   hoverColor: {fileID: 2100000, guid: ce6846b6b5ba77f4e83630cc67fcd60d, type: 2}
   notEnoughMoneyColor: {fileID: 2100000, guid: d039561a0d242784196a9f282d2d2c08, type: 2}
   turrent: {fileID: 0}
+  turrentBlueprint:
+    prefab: {fileID: 0}
+    cost: 0
+    upgradedPrefab: {fileID: 0}
+    upgradedCost: 0
+  isUpgraded: 0
   buildingRadius: 4
   positionOffset: {x: 0, y: 3, z: 0}
 --- !u!65 &1388908839
@@ -19639,6 +20256,12 @@ MonoBehaviour:
   hoverColor: {fileID: 2100000, guid: ce6846b6b5ba77f4e83630cc67fcd60d, type: 2}
   notEnoughMoneyColor: {fileID: 2100000, guid: d039561a0d242784196a9f282d2d2c08, type: 2}
   turrent: {fileID: 0}
+  turrentBlueprint:
+    prefab: {fileID: 0}
+    cost: 0
+    upgradedPrefab: {fileID: 0}
+    upgradedCost: 0
+  isUpgraded: 0
   buildingRadius: 4
   positionOffset: {x: 0, y: 3, z: 0}
 --- !u!65 &1398083769
@@ -19924,6 +20547,12 @@ MonoBehaviour:
   hoverColor: {fileID: 2100000, guid: ce6846b6b5ba77f4e83630cc67fcd60d, type: 2}
   notEnoughMoneyColor: {fileID: 2100000, guid: d039561a0d242784196a9f282d2d2c08, type: 2}
   turrent: {fileID: 0}
+  turrentBlueprint:
+    prefab: {fileID: 0}
+    cost: 0
+    upgradedPrefab: {fileID: 0}
+    upgradedCost: 0
+  isUpgraded: 0
   buildingRadius: 4
   positionOffset: {x: 0, y: 3, z: 0}
 --- !u!65 &1418277747
@@ -20307,6 +20936,12 @@ MonoBehaviour:
   hoverColor: {fileID: 2100000, guid: ce6846b6b5ba77f4e83630cc67fcd60d, type: 2}
   notEnoughMoneyColor: {fileID: 2100000, guid: d039561a0d242784196a9f282d2d2c08, type: 2}
   turrent: {fileID: 0}
+  turrentBlueprint:
+    prefab: {fileID: 0}
+    cost: 0
+    upgradedPrefab: {fileID: 0}
+    upgradedCost: 0
+  isUpgraded: 0
   buildingRadius: 4
   positionOffset: {x: 0, y: 3, z: 0}
 --- !u!65 &1438329223
@@ -20342,6 +20977,12 @@ MonoBehaviour:
   hoverColor: {fileID: 2100000, guid: ce6846b6b5ba77f4e83630cc67fcd60d, type: 2}
   notEnoughMoneyColor: {fileID: 2100000, guid: d039561a0d242784196a9f282d2d2c08, type: 2}
   turrent: {fileID: 0}
+  turrentBlueprint:
+    prefab: {fileID: 0}
+    cost: 0
+    upgradedPrefab: {fileID: 0}
+    upgradedCost: 0
+  isUpgraded: 0
   buildingRadius: 4
   positionOffset: {x: 0, y: 3, z: 0}
 --- !u!65 &1438949966
@@ -20377,6 +21018,12 @@ MonoBehaviour:
   hoverColor: {fileID: 2100000, guid: ce6846b6b5ba77f4e83630cc67fcd60d, type: 2}
   notEnoughMoneyColor: {fileID: 2100000, guid: d039561a0d242784196a9f282d2d2c08, type: 2}
   turrent: {fileID: 0}
+  turrentBlueprint:
+    prefab: {fileID: 0}
+    cost: 0
+    upgradedPrefab: {fileID: 0}
+    upgradedCost: 0
+  isUpgraded: 0
   buildingRadius: 4
   positionOffset: {x: 0, y: 3, z: 0}
 --- !u!65 &1439636666
@@ -20417,6 +21064,12 @@ MonoBehaviour:
   hoverColor: {fileID: 2100000, guid: ce6846b6b5ba77f4e83630cc67fcd60d, type: 2}
   notEnoughMoneyColor: {fileID: 2100000, guid: d039561a0d242784196a9f282d2d2c08, type: 2}
   turrent: {fileID: 0}
+  turrentBlueprint:
+    prefab: {fileID: 0}
+    cost: 0
+    upgradedPrefab: {fileID: 0}
+    upgradedCost: 0
+  isUpgraded: 0
   buildingRadius: 4
   positionOffset: {x: 0, y: 3, z: 0}
 --- !u!65 &1450878647
@@ -20544,6 +21197,12 @@ MonoBehaviour:
   hoverColor: {fileID: 2100000, guid: ce6846b6b5ba77f4e83630cc67fcd60d, type: 2}
   notEnoughMoneyColor: {fileID: 2100000, guid: d039561a0d242784196a9f282d2d2c08, type: 2}
   turrent: {fileID: 0}
+  turrentBlueprint:
+    prefab: {fileID: 0}
+    cost: 0
+    upgradedPrefab: {fileID: 0}
+    upgradedCost: 0
+  isUpgraded: 0
   buildingRadius: 4
   positionOffset: {x: 0, y: 3, z: 0}
 --- !u!65 &1456134402
@@ -20643,6 +21302,8 @@ GameObject:
   m_Component:
   - component: {fileID: 1473015436}
   - component: {fileID: 1473015435}
+  - component: {fileID: 1473015438}
+  - component: {fileID: 1473015437}
   m_Layer: 0
   m_Name: NodeUI
   m_TagString: Untagged
@@ -20663,6 +21324,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   ui: {fileID: 1473015434}
+  upgradeCost: {fileID: 1988235469}
+  upgradeButton: {fileID: 1804846515}
   positionOffset: {x: 0, y: 20, z: 8}
 --- !u!4 &1473015436
 Transform:
@@ -20679,6 +21342,37 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 1
   m_LocalEulerAnglesHint: {x: 45, y: 0, z: 0}
+--- !u!95 &1473015437
+Animator:
+  serializedVersion: 3
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1473015434}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: 479024d099319044daad0e64f365e2e0, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorControllerStateOnDisable: 0
+--- !u!225 &1473015438
+CanvasGroup:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1473015434}
+  m_Enabled: 1
+  m_Alpha: 0
+  m_Interactable: 1
+  m_BlocksRaycasts: 1
+  m_IgnoreParentGroups: 0
 --- !u!1 &1478317983 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 1560257132984952, guid: 5cbae0602ce9acf41a98fda3a353569a, type: 3}
@@ -20699,6 +21393,12 @@ MonoBehaviour:
   hoverColor: {fileID: 2100000, guid: ce6846b6b5ba77f4e83630cc67fcd60d, type: 2}
   notEnoughMoneyColor: {fileID: 2100000, guid: d039561a0d242784196a9f282d2d2c08, type: 2}
   turrent: {fileID: 0}
+  turrentBlueprint:
+    prefab: {fileID: 0}
+    cost: 0
+    upgradedPrefab: {fileID: 0}
+    upgradedCost: 0
+  isUpgraded: 0
   buildingRadius: 4
   positionOffset: {x: 0, y: 3, z: 0}
 --- !u!65 &1478317987
@@ -20906,6 +21606,12 @@ MonoBehaviour:
   hoverColor: {fileID: 2100000, guid: ce6846b6b5ba77f4e83630cc67fcd60d, type: 2}
   notEnoughMoneyColor: {fileID: 2100000, guid: d039561a0d242784196a9f282d2d2c08, type: 2}
   turrent: {fileID: 0}
+  turrentBlueprint:
+    prefab: {fileID: 0}
+    cost: 0
+    upgradedPrefab: {fileID: 0}
+    upgradedCost: 0
+  isUpgraded: 0
   buildingRadius: 4
   positionOffset: {x: 0, y: 3, z: 0}
 --- !u!65 &1486523837
@@ -20941,6 +21647,12 @@ MonoBehaviour:
   hoverColor: {fileID: 2100000, guid: ce6846b6b5ba77f4e83630cc67fcd60d, type: 2}
   notEnoughMoneyColor: {fileID: 2100000, guid: d039561a0d242784196a9f282d2d2c08, type: 2}
   turrent: {fileID: 0}
+  turrentBlueprint:
+    prefab: {fileID: 0}
+    cost: 0
+    upgradedPrefab: {fileID: 0}
+    upgradedCost: 0
+  isUpgraded: 0
   buildingRadius: 4
   positionOffset: {x: 0, y: 3, z: 0}
 --- !u!65 &1493946285
@@ -21152,6 +21864,12 @@ MonoBehaviour:
   hoverColor: {fileID: 2100000, guid: ce6846b6b5ba77f4e83630cc67fcd60d, type: 2}
   notEnoughMoneyColor: {fileID: 2100000, guid: d039561a0d242784196a9f282d2d2c08, type: 2}
   turrent: {fileID: 0}
+  turrentBlueprint:
+    prefab: {fileID: 0}
+    cost: 0
+    upgradedPrefab: {fileID: 0}
+    upgradedCost: 0
+  isUpgraded: 0
   buildingRadius: 4
   positionOffset: {x: 0, y: 3, z: 0}
 --- !u!65 &1505361584
@@ -21335,6 +22053,12 @@ MonoBehaviour:
   hoverColor: {fileID: 2100000, guid: ce6846b6b5ba77f4e83630cc67fcd60d, type: 2}
   notEnoughMoneyColor: {fileID: 2100000, guid: d039561a0d242784196a9f282d2d2c08, type: 2}
   turrent: {fileID: 0}
+  turrentBlueprint:
+    prefab: {fileID: 0}
+    cost: 0
+    upgradedPrefab: {fileID: 0}
+    upgradedCost: 0
+  isUpgraded: 0
   buildingRadius: 4
   positionOffset: {x: 0, y: 3, z: 0}
 --- !u!65 &1522252320
@@ -21541,6 +22265,12 @@ MonoBehaviour:
   hoverColor: {fileID: 2100000, guid: ce6846b6b5ba77f4e83630cc67fcd60d, type: 2}
   notEnoughMoneyColor: {fileID: 2100000, guid: d039561a0d242784196a9f282d2d2c08, type: 2}
   turrent: {fileID: 0}
+  turrentBlueprint:
+    prefab: {fileID: 0}
+    cost: 0
+    upgradedPrefab: {fileID: 0}
+    upgradedCost: 0
+  isUpgraded: 0
   buildingRadius: 4
   positionOffset: {x: 0, y: 3, z: 0}
 --- !u!65 &1537252210
@@ -21650,6 +22380,12 @@ MonoBehaviour:
   hoverColor: {fileID: 2100000, guid: ce6846b6b5ba77f4e83630cc67fcd60d, type: 2}
   notEnoughMoneyColor: {fileID: 2100000, guid: d039561a0d242784196a9f282d2d2c08, type: 2}
   turrent: {fileID: 0}
+  turrentBlueprint:
+    prefab: {fileID: 0}
+    cost: 0
+    upgradedPrefab: {fileID: 0}
+    upgradedCost: 0
+  isUpgraded: 0
   buildingRadius: 4
   positionOffset: {x: 0, y: 3, z: 0}
 --- !u!65 &1537976517
@@ -21685,6 +22421,12 @@ MonoBehaviour:
   hoverColor: {fileID: 2100000, guid: ce6846b6b5ba77f4e83630cc67fcd60d, type: 2}
   notEnoughMoneyColor: {fileID: 2100000, guid: d039561a0d242784196a9f282d2d2c08, type: 2}
   turrent: {fileID: 0}
+  turrentBlueprint:
+    prefab: {fileID: 0}
+    cost: 0
+    upgradedPrefab: {fileID: 0}
+    upgradedCost: 0
+  isUpgraded: 0
   buildingRadius: 4
   positionOffset: {x: 0, y: 3, z: 0}
 --- !u!65 &1541983289
@@ -21794,6 +22536,12 @@ MonoBehaviour:
   hoverColor: {fileID: 2100000, guid: ce6846b6b5ba77f4e83630cc67fcd60d, type: 2}
   notEnoughMoneyColor: {fileID: 2100000, guid: d039561a0d242784196a9f282d2d2c08, type: 2}
   turrent: {fileID: 0}
+  turrentBlueprint:
+    prefab: {fileID: 0}
+    cost: 0
+    upgradedPrefab: {fileID: 0}
+    upgradedCost: 0
+  isUpgraded: 0
   buildingRadius: 4
   positionOffset: {x: 0, y: 3, z: 0}
 --- !u!65 &1548962650
@@ -21829,6 +22577,12 @@ MonoBehaviour:
   hoverColor: {fileID: 2100000, guid: ce6846b6b5ba77f4e83630cc67fcd60d, type: 2}
   notEnoughMoneyColor: {fileID: 2100000, guid: d039561a0d242784196a9f282d2d2c08, type: 2}
   turrent: {fileID: 0}
+  turrentBlueprint:
+    prefab: {fileID: 0}
+    cost: 0
+    upgradedPrefab: {fileID: 0}
+    upgradedCost: 0
+  isUpgraded: 0
   buildingRadius: 4
   positionOffset: {x: 0, y: 3, z: 0}
 --- !u!65 &1552006035
@@ -22012,6 +22766,12 @@ MonoBehaviour:
   hoverColor: {fileID: 2100000, guid: ce6846b6b5ba77f4e83630cc67fcd60d, type: 2}
   notEnoughMoneyColor: {fileID: 2100000, guid: d039561a0d242784196a9f282d2d2c08, type: 2}
   turrent: {fileID: 0}
+  turrentBlueprint:
+    prefab: {fileID: 0}
+    cost: 0
+    upgradedPrefab: {fileID: 0}
+    upgradedCost: 0
+  isUpgraded: 0
   buildingRadius: 4
   positionOffset: {x: 0, y: 3, z: 0}
 --- !u!65 &1558893498
@@ -22047,6 +22807,12 @@ MonoBehaviour:
   hoverColor: {fileID: 2100000, guid: ce6846b6b5ba77f4e83630cc67fcd60d, type: 2}
   notEnoughMoneyColor: {fileID: 2100000, guid: d039561a0d242784196a9f282d2d2c08, type: 2}
   turrent: {fileID: 0}
+  turrentBlueprint:
+    prefab: {fileID: 0}
+    cost: 0
+    upgradedPrefab: {fileID: 0}
+    upgradedCost: 0
+  isUpgraded: 0
   buildingRadius: 4
   positionOffset: {x: 0, y: 3, z: 0}
 --- !u!65 &1561340042
@@ -22161,6 +22927,12 @@ MonoBehaviour:
   hoverColor: {fileID: 2100000, guid: ce6846b6b5ba77f4e83630cc67fcd60d, type: 2}
   notEnoughMoneyColor: {fileID: 2100000, guid: d039561a0d242784196a9f282d2d2c08, type: 2}
   turrent: {fileID: 0}
+  turrentBlueprint:
+    prefab: {fileID: 0}
+    cost: 0
+    upgradedPrefab: {fileID: 0}
+    upgradedCost: 0
+  isUpgraded: 0
   buildingRadius: 4
   positionOffset: {x: 0, y: 3, z: 0}
 --- !u!65 &1566083826
@@ -22270,6 +23042,12 @@ MonoBehaviour:
   hoverColor: {fileID: 2100000, guid: ce6846b6b5ba77f4e83630cc67fcd60d, type: 2}
   notEnoughMoneyColor: {fileID: 2100000, guid: d039561a0d242784196a9f282d2d2c08, type: 2}
   turrent: {fileID: 0}
+  turrentBlueprint:
+    prefab: {fileID: 0}
+    cost: 0
+    upgradedPrefab: {fileID: 0}
+    upgradedCost: 0
+  isUpgraded: 0
   buildingRadius: 4
   positionOffset: {x: 0, y: 3, z: 0}
 --- !u!65 &1570015298
@@ -22384,6 +23162,12 @@ MonoBehaviour:
   hoverColor: {fileID: 2100000, guid: ce6846b6b5ba77f4e83630cc67fcd60d, type: 2}
   notEnoughMoneyColor: {fileID: 2100000, guid: d039561a0d242784196a9f282d2d2c08, type: 2}
   turrent: {fileID: 0}
+  turrentBlueprint:
+    prefab: {fileID: 0}
+    cost: 0
+    upgradedPrefab: {fileID: 0}
+    upgradedCost: 0
+  isUpgraded: 0
   buildingRadius: 4
   positionOffset: {x: 0, y: 3, z: 0}
 --- !u!65 &1588819844
@@ -22419,6 +23203,12 @@ MonoBehaviour:
   hoverColor: {fileID: 2100000, guid: ce6846b6b5ba77f4e83630cc67fcd60d, type: 2}
   notEnoughMoneyColor: {fileID: 2100000, guid: d039561a0d242784196a9f282d2d2c08, type: 2}
   turrent: {fileID: 0}
+  turrentBlueprint:
+    prefab: {fileID: 0}
+    cost: 0
+    upgradedPrefab: {fileID: 0}
+    upgradedCost: 0
+  isUpgraded: 0
   buildingRadius: 4
   positionOffset: {x: 0, y: 3, z: 0}
 --- !u!65 &1589824007
@@ -22454,6 +23244,12 @@ MonoBehaviour:
   hoverColor: {fileID: 2100000, guid: ce6846b6b5ba77f4e83630cc67fcd60d, type: 2}
   notEnoughMoneyColor: {fileID: 2100000, guid: d039561a0d242784196a9f282d2d2c08, type: 2}
   turrent: {fileID: 0}
+  turrentBlueprint:
+    prefab: {fileID: 0}
+    cost: 0
+    upgradedPrefab: {fileID: 0}
+    upgradedCost: 0
+  isUpgraded: 0
   buildingRadius: 4
   positionOffset: {x: 0, y: 3, z: 0}
 --- !u!65 &1590381362
@@ -22558,6 +23354,12 @@ MonoBehaviour:
   hoverColor: {fileID: 2100000, guid: ce6846b6b5ba77f4e83630cc67fcd60d, type: 2}
   notEnoughMoneyColor: {fileID: 2100000, guid: d039561a0d242784196a9f282d2d2c08, type: 2}
   turrent: {fileID: 0}
+  turrentBlueprint:
+    prefab: {fileID: 0}
+    cost: 0
+    upgradedPrefab: {fileID: 0}
+    upgradedCost: 0
+  isUpgraded: 0
   buildingRadius: 4
   positionOffset: {x: 0, y: 3, z: 0}
 --- !u!65 &1592218726
@@ -22964,6 +23766,12 @@ MonoBehaviour:
   hoverColor: {fileID: 2100000, guid: ce6846b6b5ba77f4e83630cc67fcd60d, type: 2}
   notEnoughMoneyColor: {fileID: 2100000, guid: d039561a0d242784196a9f282d2d2c08, type: 2}
   turrent: {fileID: 0}
+  turrentBlueprint:
+    prefab: {fileID: 0}
+    cost: 0
+    upgradedPrefab: {fileID: 0}
+    upgradedCost: 0
+  isUpgraded: 0
   buildingRadius: 4
   positionOffset: {x: 0, y: 3, z: 0}
 --- !u!65 &1610712410
@@ -23073,6 +23881,12 @@ MonoBehaviour:
   hoverColor: {fileID: 2100000, guid: ce6846b6b5ba77f4e83630cc67fcd60d, type: 2}
   notEnoughMoneyColor: {fileID: 2100000, guid: d039561a0d242784196a9f282d2d2c08, type: 2}
   turrent: {fileID: 0}
+  turrentBlueprint:
+    prefab: {fileID: 0}
+    cost: 0
+    upgradedPrefab: {fileID: 0}
+    upgradedCost: 0
+  isUpgraded: 0
   buildingRadius: 4
   positionOffset: {x: 0, y: 3, z: 0}
 --- !u!65 &1612541562
@@ -23108,6 +23922,12 @@ MonoBehaviour:
   hoverColor: {fileID: 2100000, guid: ce6846b6b5ba77f4e83630cc67fcd60d, type: 2}
   notEnoughMoneyColor: {fileID: 2100000, guid: d039561a0d242784196a9f282d2d2c08, type: 2}
   turrent: {fileID: 0}
+  turrentBlueprint:
+    prefab: {fileID: 0}
+    cost: 0
+    upgradedPrefab: {fileID: 0}
+    upgradedCost: 0
+  isUpgraded: 0
   buildingRadius: 4
   positionOffset: {x: 0, y: 3, z: 0}
 --- !u!65 &1613946639
@@ -23143,6 +23963,12 @@ MonoBehaviour:
   hoverColor: {fileID: 2100000, guid: ce6846b6b5ba77f4e83630cc67fcd60d, type: 2}
   notEnoughMoneyColor: {fileID: 2100000, guid: d039561a0d242784196a9f282d2d2c08, type: 2}
   turrent: {fileID: 0}
+  turrentBlueprint:
+    prefab: {fileID: 0}
+    cost: 0
+    upgradedPrefab: {fileID: 0}
+    upgradedCost: 0
+  isUpgraded: 0
   buildingRadius: 4
   positionOffset: {x: 0, y: 3, z: 0}
 --- !u!65 &1614872120
@@ -23247,6 +24073,12 @@ MonoBehaviour:
   hoverColor: {fileID: 2100000, guid: ce6846b6b5ba77f4e83630cc67fcd60d, type: 2}
   notEnoughMoneyColor: {fileID: 2100000, guid: d039561a0d242784196a9f282d2d2c08, type: 2}
   turrent: {fileID: 0}
+  turrentBlueprint:
+    prefab: {fileID: 0}
+    cost: 0
+    upgradedPrefab: {fileID: 0}
+    upgradedCost: 0
+  isUpgraded: 0
   buildingRadius: 4
   positionOffset: {x: 0, y: 3, z: 0}
 --- !u!65 &1623387289
@@ -23425,6 +24257,12 @@ MonoBehaviour:
   hoverColor: {fileID: 2100000, guid: ce6846b6b5ba77f4e83630cc67fcd60d, type: 2}
   notEnoughMoneyColor: {fileID: 2100000, guid: d039561a0d242784196a9f282d2d2c08, type: 2}
   turrent: {fileID: 0}
+  turrentBlueprint:
+    prefab: {fileID: 0}
+    cost: 0
+    upgradedPrefab: {fileID: 0}
+    upgradedCost: 0
+  isUpgraded: 0
   buildingRadius: 4
   positionOffset: {x: 0, y: 3, z: 0}
 --- !u!65 &1627912107
@@ -23460,6 +24298,12 @@ MonoBehaviour:
   hoverColor: {fileID: 2100000, guid: ce6846b6b5ba77f4e83630cc67fcd60d, type: 2}
   notEnoughMoneyColor: {fileID: 2100000, guid: d039561a0d242784196a9f282d2d2c08, type: 2}
   turrent: {fileID: 0}
+  turrentBlueprint:
+    prefab: {fileID: 0}
+    cost: 0
+    upgradedPrefab: {fileID: 0}
+    upgradedCost: 0
+  isUpgraded: 0
   buildingRadius: 4
   positionOffset: {x: 0, y: 3, z: 0}
 --- !u!65 &1635933742
@@ -23712,6 +24556,12 @@ MonoBehaviour:
   hoverColor: {fileID: 2100000, guid: ce6846b6b5ba77f4e83630cc67fcd60d, type: 2}
   notEnoughMoneyColor: {fileID: 2100000, guid: d039561a0d242784196a9f282d2d2c08, type: 2}
   turrent: {fileID: 0}
+  turrentBlueprint:
+    prefab: {fileID: 0}
+    cost: 0
+    upgradedPrefab: {fileID: 0}
+    upgradedCost: 0
+  isUpgraded: 0
   buildingRadius: 4
   positionOffset: {x: 0, y: 3, z: 0}
 --- !u!65 &1648708831
@@ -23890,6 +24740,12 @@ MonoBehaviour:
   hoverColor: {fileID: 2100000, guid: ce6846b6b5ba77f4e83630cc67fcd60d, type: 2}
   notEnoughMoneyColor: {fileID: 2100000, guid: d039561a0d242784196a9f282d2d2c08, type: 2}
   turrent: {fileID: 0}
+  turrentBlueprint:
+    prefab: {fileID: 0}
+    cost: 0
+    upgradedPrefab: {fileID: 0}
+    upgradedCost: 0
+  isUpgraded: 0
   buildingRadius: 4
   positionOffset: {x: 0, y: 3, z: 0}
 --- !u!65 &1655265343
@@ -24253,6 +25109,12 @@ MonoBehaviour:
   hoverColor: {fileID: 2100000, guid: ce6846b6b5ba77f4e83630cc67fcd60d, type: 2}
   notEnoughMoneyColor: {fileID: 2100000, guid: d039561a0d242784196a9f282d2d2c08, type: 2}
   turrent: {fileID: 0}
+  turrentBlueprint:
+    prefab: {fileID: 0}
+    cost: 0
+    upgradedPrefab: {fileID: 0}
+    upgradedCost: 0
+  isUpgraded: 0
   buildingRadius: 4
   positionOffset: {x: 0, y: 3, z: 0}
 --- !u!65 &1674503763
@@ -24521,6 +25383,12 @@ MonoBehaviour:
   hoverColor: {fileID: 2100000, guid: ce6846b6b5ba77f4e83630cc67fcd60d, type: 2}
   notEnoughMoneyColor: {fileID: 2100000, guid: d039561a0d242784196a9f282d2d2c08, type: 2}
   turrent: {fileID: 0}
+  turrentBlueprint:
+    prefab: {fileID: 0}
+    cost: 0
+    upgradedPrefab: {fileID: 0}
+    upgradedCost: 0
+  isUpgraded: 0
   buildingRadius: 4
   positionOffset: {x: 0, y: 3, z: 0}
 --- !u!65 &1684598440
@@ -24556,6 +25424,12 @@ MonoBehaviour:
   hoverColor: {fileID: 2100000, guid: ce6846b6b5ba77f4e83630cc67fcd60d, type: 2}
   notEnoughMoneyColor: {fileID: 2100000, guid: d039561a0d242784196a9f282d2d2c08, type: 2}
   turrent: {fileID: 0}
+  turrentBlueprint:
+    prefab: {fileID: 0}
+    cost: 0
+    upgradedPrefab: {fileID: 0}
+    upgradedCost: 0
+  isUpgraded: 0
   buildingRadius: 4
   positionOffset: {x: 0, y: 3, z: 0}
 --- !u!65 &1686913385
@@ -24619,6 +25493,12 @@ MonoBehaviour:
   hoverColor: {fileID: 2100000, guid: ce6846b6b5ba77f4e83630cc67fcd60d, type: 2}
   notEnoughMoneyColor: {fileID: 2100000, guid: d039561a0d242784196a9f282d2d2c08, type: 2}
   turrent: {fileID: 0}
+  turrentBlueprint:
+    prefab: {fileID: 0}
+    cost: 0
+    upgradedPrefab: {fileID: 0}
+    upgradedCost: 0
+  isUpgraded: 0
   buildingRadius: 4
   positionOffset: {x: 0, y: 3, z: 0}
 --- !u!65 &1695791154
@@ -24654,6 +25534,12 @@ MonoBehaviour:
   hoverColor: {fileID: 2100000, guid: ce6846b6b5ba77f4e83630cc67fcd60d, type: 2}
   notEnoughMoneyColor: {fileID: 2100000, guid: d039561a0d242784196a9f282d2d2c08, type: 2}
   turrent: {fileID: 0}
+  turrentBlueprint:
+    prefab: {fileID: 0}
+    cost: 0
+    upgradedPrefab: {fileID: 0}
+    upgradedCost: 0
+  isUpgraded: 0
   buildingRadius: 4
   positionOffset: {x: 0, y: 3, z: 0}
 --- !u!65 &1700366818
@@ -24790,6 +25676,12 @@ MonoBehaviour:
   hoverColor: {fileID: 2100000, guid: ce6846b6b5ba77f4e83630cc67fcd60d, type: 2}
   notEnoughMoneyColor: {fileID: 2100000, guid: d039561a0d242784196a9f282d2d2c08, type: 2}
   turrent: {fileID: 0}
+  turrentBlueprint:
+    prefab: {fileID: 0}
+    cost: 0
+    upgradedPrefab: {fileID: 0}
+    upgradedCost: 0
+  isUpgraded: 0
   buildingRadius: 4
   positionOffset: {x: 0, y: 3, z: 0}
 --- !u!65 &1704586971
@@ -24927,6 +25819,12 @@ MonoBehaviour:
   hoverColor: {fileID: 2100000, guid: ce6846b6b5ba77f4e83630cc67fcd60d, type: 2}
   notEnoughMoneyColor: {fileID: 2100000, guid: d039561a0d242784196a9f282d2d2c08, type: 2}
   turrent: {fileID: 0}
+  turrentBlueprint:
+    prefab: {fileID: 0}
+    cost: 0
+    upgradedPrefab: {fileID: 0}
+    upgradedCost: 0
+  isUpgraded: 0
   buildingRadius: 4
   positionOffset: {x: 0, y: 3, z: 0}
 --- !u!65 &1741480869
@@ -25036,6 +25934,12 @@ MonoBehaviour:
   hoverColor: {fileID: 2100000, guid: ce6846b6b5ba77f4e83630cc67fcd60d, type: 2}
   notEnoughMoneyColor: {fileID: 2100000, guid: d039561a0d242784196a9f282d2d2c08, type: 2}
   turrent: {fileID: 0}
+  turrentBlueprint:
+    prefab: {fileID: 0}
+    cost: 0
+    upgradedPrefab: {fileID: 0}
+    upgradedCost: 0
+  isUpgraded: 0
   buildingRadius: 4
   positionOffset: {x: 0, y: 3, z: 0}
 --- !u!65 &1748130534
@@ -25071,6 +25975,12 @@ MonoBehaviour:
   hoverColor: {fileID: 2100000, guid: ce6846b6b5ba77f4e83630cc67fcd60d, type: 2}
   notEnoughMoneyColor: {fileID: 2100000, guid: d039561a0d242784196a9f282d2d2c08, type: 2}
   turrent: {fileID: 0}
+  turrentBlueprint:
+    prefab: {fileID: 0}
+    cost: 0
+    upgradedPrefab: {fileID: 0}
+    upgradedCost: 0
+  isUpgraded: 0
   buildingRadius: 4
   positionOffset: {x: 0, y: 3, z: 0}
 --- !u!65 &1751436793
@@ -25289,6 +26199,12 @@ MonoBehaviour:
   hoverColor: {fileID: 2100000, guid: ce6846b6b5ba77f4e83630cc67fcd60d, type: 2}
   notEnoughMoneyColor: {fileID: 2100000, guid: d039561a0d242784196a9f282d2d2c08, type: 2}
   turrent: {fileID: 0}
+  turrentBlueprint:
+    prefab: {fileID: 0}
+    cost: 0
+    upgradedPrefab: {fileID: 0}
+    upgradedCost: 0
+  isUpgraded: 0
   buildingRadius: 4
   positionOffset: {x: 0, y: 3, z: 0}
 --- !u!65 &1767621995
@@ -25541,6 +26457,12 @@ MonoBehaviour:
   hoverColor: {fileID: 2100000, guid: ce6846b6b5ba77f4e83630cc67fcd60d, type: 2}
   notEnoughMoneyColor: {fileID: 2100000, guid: d039561a0d242784196a9f282d2d2c08, type: 2}
   turrent: {fileID: 0}
+  turrentBlueprint:
+    prefab: {fileID: 0}
+    cost: 0
+    upgradedPrefab: {fileID: 0}
+    upgradedCost: 0
+  isUpgraded: 0
   buildingRadius: 4
   positionOffset: {x: 0, y: 3, z: 0}
 --- !u!65 &1787575540
@@ -25576,6 +26498,12 @@ MonoBehaviour:
   hoverColor: {fileID: 2100000, guid: ce6846b6b5ba77f4e83630cc67fcd60d, type: 2}
   notEnoughMoneyColor: {fileID: 2100000, guid: d039561a0d242784196a9f282d2d2c08, type: 2}
   turrent: {fileID: 0}
+  turrentBlueprint:
+    prefab: {fileID: 0}
+    cost: 0
+    upgradedPrefab: {fileID: 0}
+    upgradedCost: 0
+  isUpgraded: 0
   buildingRadius: 4
   positionOffset: {x: 0, y: 3, z: 0}
 --- !u!65 &1791511891
@@ -25611,6 +26539,12 @@ MonoBehaviour:
   hoverColor: {fileID: 2100000, guid: ce6846b6b5ba77f4e83630cc67fcd60d, type: 2}
   notEnoughMoneyColor: {fileID: 2100000, guid: d039561a0d242784196a9f282d2d2c08, type: 2}
   turrent: {fileID: 0}
+  turrentBlueprint:
+    prefab: {fileID: 0}
+    cost: 0
+    upgradedPrefab: {fileID: 0}
+    upgradedCost: 0
+  isUpgraded: 0
   buildingRadius: 4
   positionOffset: {x: 0, y: 3, z: 0}
 --- !u!65 &1796126297
@@ -25639,7 +26573,7 @@ GameObject:
   - component: {fileID: 1804846516}
   - component: {fileID: 1804846515}
   m_Layer: 0
-  m_Name: Button
+  m_Name: Upgrade
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -25709,7 +26643,19 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 1804846516}
   m_OnClick:
     m_PersistentCalls:
-      m_Calls: []
+      m_Calls:
+      - m_Target: {fileID: 1473015435}
+        m_TargetAssemblyTypeName: NodeUI, Assembly-CSharp
+        m_MethodName: UpdateTurrent
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
 --- !u!114 &1804846516
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -25768,6 +26714,12 @@ MonoBehaviour:
   hoverColor: {fileID: 2100000, guid: ce6846b6b5ba77f4e83630cc67fcd60d, type: 2}
   notEnoughMoneyColor: {fileID: 2100000, guid: d039561a0d242784196a9f282d2d2c08, type: 2}
   turrent: {fileID: 0}
+  turrentBlueprint:
+    prefab: {fileID: 0}
+    cost: 0
+    upgradedPrefab: {fileID: 0}
+    upgradedCost: 0
+  isUpgraded: 0
   buildingRadius: 4
   positionOffset: {x: 0, y: 3, z: 0}
 --- !u!65 &1809054759
@@ -26094,6 +27046,12 @@ MonoBehaviour:
   hoverColor: {fileID: 2100000, guid: ce6846b6b5ba77f4e83630cc67fcd60d, type: 2}
   notEnoughMoneyColor: {fileID: 2100000, guid: d039561a0d242784196a9f282d2d2c08, type: 2}
   turrent: {fileID: 0}
+  turrentBlueprint:
+    prefab: {fileID: 0}
+    cost: 0
+    upgradedPrefab: {fileID: 0}
+    upgradedCost: 0
+  isUpgraded: 0
   buildingRadius: 4
   positionOffset: {x: 0, y: 3, z: 0}
 --- !u!65 &1839556747
@@ -26129,6 +27087,12 @@ MonoBehaviour:
   hoverColor: {fileID: 2100000, guid: ce6846b6b5ba77f4e83630cc67fcd60d, type: 2}
   notEnoughMoneyColor: {fileID: 2100000, guid: d039561a0d242784196a9f282d2d2c08, type: 2}
   turrent: {fileID: 0}
+  turrentBlueprint:
+    prefab: {fileID: 0}
+    cost: 0
+    upgradedPrefab: {fileID: 0}
+    upgradedCost: 0
+  isUpgraded: 0
   buildingRadius: 4
   positionOffset: {x: 0, y: 3, z: 0}
 --- !u!65 &1844557217
@@ -26268,6 +27232,12 @@ MonoBehaviour:
   hoverColor: {fileID: 2100000, guid: ce6846b6b5ba77f4e83630cc67fcd60d, type: 2}
   notEnoughMoneyColor: {fileID: 2100000, guid: d039561a0d242784196a9f282d2d2c08, type: 2}
   turrent: {fileID: 0}
+  turrentBlueprint:
+    prefab: {fileID: 0}
+    cost: 0
+    upgradedPrefab: {fileID: 0}
+    upgradedCost: 0
+  isUpgraded: 0
   buildingRadius: 4
   positionOffset: {x: 0, y: 3, z: 0}
 --- !u!65 &1862819900
@@ -26579,6 +27549,12 @@ MonoBehaviour:
   hoverColor: {fileID: 2100000, guid: ce6846b6b5ba77f4e83630cc67fcd60d, type: 2}
   notEnoughMoneyColor: {fileID: 2100000, guid: d039561a0d242784196a9f282d2d2c08, type: 2}
   turrent: {fileID: 0}
+  turrentBlueprint:
+    prefab: {fileID: 0}
+    cost: 0
+    upgradedPrefab: {fileID: 0}
+    upgradedCost: 0
+  isUpgraded: 0
   buildingRadius: 4
   positionOffset: {x: 0, y: 3, z: 0}
 --- !u!65 &1871120606
@@ -26607,7 +27583,7 @@ GameObject:
   - component: {fileID: 1872359104}
   - component: {fileID: 1872359103}
   m_Layer: 0
-  m_Name: Button (1)
+  m_Name: Sell
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -26991,6 +27967,12 @@ MonoBehaviour:
   hoverColor: {fileID: 2100000, guid: ce6846b6b5ba77f4e83630cc67fcd60d, type: 2}
   notEnoughMoneyColor: {fileID: 2100000, guid: d039561a0d242784196a9f282d2d2c08, type: 2}
   turrent: {fileID: 0}
+  turrentBlueprint:
+    prefab: {fileID: 0}
+    cost: 0
+    upgradedPrefab: {fileID: 0}
+    upgradedCost: 0
+  isUpgraded: 0
   buildingRadius: 4
   positionOffset: {x: 0, y: 3, z: 0}
 --- !u!65 &1889897225
@@ -27040,7 +28022,7 @@ RectTransform:
   - {fileID: 395867695}
   - {fileID: 138978506}
   m_Father: {fileID: 601321136}
-  m_RootOrder: 1
+  m_RootOrder: 2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 1, y: 1}
@@ -27118,6 +28100,12 @@ MonoBehaviour:
   hoverColor: {fileID: 2100000, guid: ce6846b6b5ba77f4e83630cc67fcd60d, type: 2}
   notEnoughMoneyColor: {fileID: 2100000, guid: d039561a0d242784196a9f282d2d2c08, type: 2}
   turrent: {fileID: 0}
+  turrentBlueprint:
+    prefab: {fileID: 0}
+    cost: 0
+    upgradedPrefab: {fileID: 0}
+    upgradedCost: 0
+  isUpgraded: 0
   buildingRadius: 4
   positionOffset: {x: 0, y: 3, z: 0}
 --- !u!65 &1894694489
@@ -27301,6 +28289,12 @@ MonoBehaviour:
   hoverColor: {fileID: 2100000, guid: ce6846b6b5ba77f4e83630cc67fcd60d, type: 2}
   notEnoughMoneyColor: {fileID: 2100000, guid: d039561a0d242784196a9f282d2d2c08, type: 2}
   turrent: {fileID: 0}
+  turrentBlueprint:
+    prefab: {fileID: 0}
+    cost: 0
+    upgradedPrefab: {fileID: 0}
+    upgradedCost: 0
+  isUpgraded: 0
   buildingRadius: 4
   positionOffset: {x: 0, y: 3, z: 0}
 --- !u!65 &1899375947
@@ -27749,6 +28743,12 @@ MonoBehaviour:
   hoverColor: {fileID: 2100000, guid: ce6846b6b5ba77f4e83630cc67fcd60d, type: 2}
   notEnoughMoneyColor: {fileID: 2100000, guid: d039561a0d242784196a9f282d2d2c08, type: 2}
   turrent: {fileID: 0}
+  turrentBlueprint:
+    prefab: {fileID: 0}
+    cost: 0
+    upgradedPrefab: {fileID: 0}
+    upgradedCost: 0
+  isUpgraded: 0
   buildingRadius: 4
   positionOffset: {x: 0, y: 3, z: 0}
 --- !u!65 &1915199376
@@ -27955,6 +28955,12 @@ MonoBehaviour:
   hoverColor: {fileID: 2100000, guid: ce6846b6b5ba77f4e83630cc67fcd60d, type: 2}
   notEnoughMoneyColor: {fileID: 2100000, guid: d039561a0d242784196a9f282d2d2c08, type: 2}
   turrent: {fileID: 0}
+  turrentBlueprint:
+    prefab: {fileID: 0}
+    cost: 0
+    upgradedPrefab: {fileID: 0}
+    upgradedCost: 0
+  isUpgraded: 0
   buildingRadius: 4
   positionOffset: {x: 0, y: 3, z: 0}
 --- !u!65 &1920043571
@@ -28133,6 +29139,12 @@ MonoBehaviour:
   hoverColor: {fileID: 2100000, guid: ce6846b6b5ba77f4e83630cc67fcd60d, type: 2}
   notEnoughMoneyColor: {fileID: 2100000, guid: d039561a0d242784196a9f282d2d2c08, type: 2}
   turrent: {fileID: 0}
+  turrentBlueprint:
+    prefab: {fileID: 0}
+    cost: 0
+    upgradedPrefab: {fileID: 0}
+    upgradedCost: 0
+  isUpgraded: 0
   buildingRadius: 4
   positionOffset: {x: 0, y: 3, z: 0}
 --- !u!65 &1925118110
@@ -28168,6 +29180,12 @@ MonoBehaviour:
   hoverColor: {fileID: 2100000, guid: ce6846b6b5ba77f4e83630cc67fcd60d, type: 2}
   notEnoughMoneyColor: {fileID: 2100000, guid: d039561a0d242784196a9f282d2d2c08, type: 2}
   turrent: {fileID: 0}
+  turrentBlueprint:
+    prefab: {fileID: 0}
+    cost: 0
+    upgradedPrefab: {fileID: 0}
+    upgradedCost: 0
+  isUpgraded: 0
   buildingRadius: 4
   positionOffset: {x: 0, y: 3, z: 0}
 --- !u!65 &1927307813
@@ -28275,7 +29293,6 @@ RectTransform:
   m_LocalScale: {x: 0, y: 0, z: 0}
   m_Children:
   - {fileID: 1442527809}
-  - {fileID: 1430392472}
   m_Father: {fileID: 0}
   m_RootOrder: 6
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
@@ -28532,6 +29549,12 @@ MonoBehaviour:
   hoverColor: {fileID: 2100000, guid: ce6846b6b5ba77f4e83630cc67fcd60d, type: 2}
   notEnoughMoneyColor: {fileID: 2100000, guid: d039561a0d242784196a9f282d2d2c08, type: 2}
   turrent: {fileID: 0}
+  turrentBlueprint:
+    prefab: {fileID: 0}
+    cost: 0
+    upgradedPrefab: {fileID: 0}
+    upgradedCost: 0
+  isUpgraded: 0
   buildingRadius: 4
   positionOffset: {x: 0, y: 3, z: 0}
 --- !u!65 &1946323217
@@ -28887,6 +29910,12 @@ MonoBehaviour:
   hoverColor: {fileID: 2100000, guid: ce6846b6b5ba77f4e83630cc67fcd60d, type: 2}
   notEnoughMoneyColor: {fileID: 2100000, guid: d039561a0d242784196a9f282d2d2c08, type: 2}
   turrent: {fileID: 0}
+  turrentBlueprint:
+    prefab: {fileID: 0}
+    cost: 0
+    upgradedPrefab: {fileID: 0}
+    upgradedCost: 0
+  isUpgraded: 0
   buildingRadius: 4
   positionOffset: {x: 0, y: 3, z: 0}
 --- !u!65 &1972002706
@@ -29070,6 +30099,12 @@ MonoBehaviour:
   hoverColor: {fileID: 2100000, guid: ce6846b6b5ba77f4e83630cc67fcd60d, type: 2}
   notEnoughMoneyColor: {fileID: 2100000, guid: d039561a0d242784196a9f282d2d2c08, type: 2}
   turrent: {fileID: 0}
+  turrentBlueprint:
+    prefab: {fileID: 0}
+    cost: 0
+    upgradedPrefab: {fileID: 0}
+    upgradedCost: 0
+  isUpgraded: 0
   buildingRadius: 4
   positionOffset: {x: 0, y: 3, z: 0}
 --- !u!65 &1978908800
@@ -29179,6 +30214,12 @@ MonoBehaviour:
   hoverColor: {fileID: 2100000, guid: ce6846b6b5ba77f4e83630cc67fcd60d, type: 2}
   notEnoughMoneyColor: {fileID: 2100000, guid: d039561a0d242784196a9f282d2d2c08, type: 2}
   turrent: {fileID: 0}
+  turrentBlueprint:
+    prefab: {fileID: 0}
+    cost: 0
+    upgradedPrefab: {fileID: 0}
+    upgradedCost: 0
+  isUpgraded: 0
   buildingRadius: 4
   positionOffset: {x: 0, y: 3, z: 0}
 --- !u!65 &1983425756
@@ -29214,6 +30255,12 @@ MonoBehaviour:
   hoverColor: {fileID: 2100000, guid: ce6846b6b5ba77f4e83630cc67fcd60d, type: 2}
   notEnoughMoneyColor: {fileID: 2100000, guid: d039561a0d242784196a9f282d2d2c08, type: 2}
   turrent: {fileID: 0}
+  turrentBlueprint:
+    prefab: {fileID: 0}
+    cost: 0
+    upgradedPrefab: {fileID: 0}
+    upgradedCost: 0
+  isUpgraded: 0
   buildingRadius: 4
   positionOffset: {x: 0, y: 3, z: 0}
 --- !u!65 &1985022183
@@ -29921,7 +30968,6 @@ GameObject:
   - component: {fileID: 2023636060}
   - component: {fileID: 2023636062}
   - component: {fileID: 2023636063}
-  - component: {fileID: 2023636064}
   m_Layer: 0
   m_Name: GameMaster
   m_TagString: Untagged
@@ -29973,10 +31019,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   turrentBuildEffect: {fileID: 2089101619565887843, guid: 1ff24d347df9c57408449d90c4f2c835, type: 3}
   nodeUI: {fileID: 1473015435}
-  turrentLevel_1: {fileID: 7721117775903458191, guid: e50f55932ead89e4ea5c8c8ec9aa05e1, type: 3}
-  turrentLevel_2: {fileID: 3762993441518410836, guid: 1cec87efd2bf23041b82c60b73ffce12, type: 3}
-  turrentLevel_3: {fileID: 983073403532204184, guid: 12e80023607d4964b9a5596802104de2, type: 3}
-  mageTower: {fileID: 0}
 --- !u!114 &2023636063
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -29989,20 +31031,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: cb41427e02467184781436a546b88718, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  startMoney: 500
+  startMoney: 9000
   startLives: 1
---- !u!114 &2023636064
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 2023636059}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: b85a9196a9dac504cbe3119d80ef02a3, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
 --- !u!1001 &2025807915
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -30166,6 +31196,12 @@ MonoBehaviour:
   hoverColor: {fileID: 2100000, guid: ce6846b6b5ba77f4e83630cc67fcd60d, type: 2}
   notEnoughMoneyColor: {fileID: 2100000, guid: d039561a0d242784196a9f282d2d2c08, type: 2}
   turrent: {fileID: 0}
+  turrentBlueprint:
+    prefab: {fileID: 0}
+    cost: 0
+    upgradedPrefab: {fileID: 0}
+    upgradedCost: 0
+  isUpgraded: 0
   buildingRadius: 4
   positionOffset: {x: 0, y: 3, z: 0}
 --- !u!65 &2038197697
@@ -30270,6 +31306,12 @@ MonoBehaviour:
   hoverColor: {fileID: 2100000, guid: ce6846b6b5ba77f4e83630cc67fcd60d, type: 2}
   notEnoughMoneyColor: {fileID: 2100000, guid: d039561a0d242784196a9f282d2d2c08, type: 2}
   turrent: {fileID: 0}
+  turrentBlueprint:
+    prefab: {fileID: 0}
+    cost: 0
+    upgradedPrefab: {fileID: 0}
+    upgradedCost: 0
+  isUpgraded: 0
   buildingRadius: 4
   positionOffset: {x: 0, y: 3, z: 0}
 --- !u!65 &2046132162
@@ -30305,6 +31347,12 @@ MonoBehaviour:
   hoverColor: {fileID: 2100000, guid: ce6846b6b5ba77f4e83630cc67fcd60d, type: 2}
   notEnoughMoneyColor: {fileID: 2100000, guid: d039561a0d242784196a9f282d2d2c08, type: 2}
   turrent: {fileID: 0}
+  turrentBlueprint:
+    prefab: {fileID: 0}
+    cost: 0
+    upgradedPrefab: {fileID: 0}
+    upgradedCost: 0
+  isUpgraded: 0
   buildingRadius: 4
   positionOffset: {x: 0, y: 3, z: 0}
 --- !u!65 &2053384674
@@ -30488,6 +31536,12 @@ MonoBehaviour:
   hoverColor: {fileID: 2100000, guid: ce6846b6b5ba77f4e83630cc67fcd60d, type: 2}
   notEnoughMoneyColor: {fileID: 2100000, guid: d039561a0d242784196a9f282d2d2c08, type: 2}
   turrent: {fileID: 0}
+  turrentBlueprint:
+    prefab: {fileID: 0}
+    cost: 0
+    upgradedPrefab: {fileID: 0}
+    upgradedCost: 0
+  isUpgraded: 0
   buildingRadius: 4
   positionOffset: {x: 0, y: 3, z: 0}
 --- !u!65 &2059682773
@@ -30523,6 +31577,12 @@ MonoBehaviour:
   hoverColor: {fileID: 2100000, guid: ce6846b6b5ba77f4e83630cc67fcd60d, type: 2}
   notEnoughMoneyColor: {fileID: 2100000, guid: d039561a0d242784196a9f282d2d2c08, type: 2}
   turrent: {fileID: 0}
+  turrentBlueprint:
+    prefab: {fileID: 0}
+    cost: 0
+    upgradedPrefab: {fileID: 0}
+    upgradedCost: 0
+  isUpgraded: 0
   buildingRadius: 4
   positionOffset: {x: 0, y: 3, z: 0}
 --- !u!65 &2061763071
@@ -30813,6 +31873,12 @@ MonoBehaviour:
   hoverColor: {fileID: 2100000, guid: ce6846b6b5ba77f4e83630cc67fcd60d, type: 2}
   notEnoughMoneyColor: {fileID: 2100000, guid: d039561a0d242784196a9f282d2d2c08, type: 2}
   turrent: {fileID: 0}
+  turrentBlueprint:
+    prefab: {fileID: 0}
+    cost: 0
+    upgradedPrefab: {fileID: 0}
+    upgradedCost: 0
+  isUpgraded: 0
   buildingRadius: 4
   positionOffset: {x: 0, y: 3, z: 0}
 --- !u!65 &2079332608
@@ -30922,6 +31988,12 @@ MonoBehaviour:
   hoverColor: {fileID: 2100000, guid: ce6846b6b5ba77f4e83630cc67fcd60d, type: 2}
   notEnoughMoneyColor: {fileID: 2100000, guid: d039561a0d242784196a9f282d2d2c08, type: 2}
   turrent: {fileID: 0}
+  turrentBlueprint:
+    prefab: {fileID: 0}
+    cost: 0
+    upgradedPrefab: {fileID: 0}
+    upgradedCost: 0
+  isUpgraded: 0
   buildingRadius: 4
   positionOffset: {x: 0, y: 3, z: 0}
 --- !u!65 &2089111600
@@ -30957,6 +32029,12 @@ MonoBehaviour:
   hoverColor: {fileID: 2100000, guid: ce6846b6b5ba77f4e83630cc67fcd60d, type: 2}
   notEnoughMoneyColor: {fileID: 2100000, guid: d039561a0d242784196a9f282d2d2c08, type: 2}
   turrent: {fileID: 0}
+  turrentBlueprint:
+    prefab: {fileID: 0}
+    cost: 0
+    upgradedPrefab: {fileID: 0}
+    upgradedCost: 0
+  isUpgraded: 0
   buildingRadius: 4
   positionOffset: {x: 0, y: 3, z: 0}
 --- !u!65 &2094529119
@@ -30992,6 +32070,12 @@ MonoBehaviour:
   hoverColor: {fileID: 2100000, guid: ce6846b6b5ba77f4e83630cc67fcd60d, type: 2}
   notEnoughMoneyColor: {fileID: 2100000, guid: d039561a0d242784196a9f282d2d2c08, type: 2}
   turrent: {fileID: 0}
+  turrentBlueprint:
+    prefab: {fileID: 0}
+    cost: 0
+    upgradedPrefab: {fileID: 0}
+    upgradedCost: 0
+  isUpgraded: 0
   buildingRadius: 4
   positionOffset: {x: 0, y: 3, z: 0}
 --- !u!65 &2105663721
@@ -31249,6 +32333,12 @@ MonoBehaviour:
   hoverColor: {fileID: 2100000, guid: ce6846b6b5ba77f4e83630cc67fcd60d, type: 2}
   notEnoughMoneyColor: {fileID: 2100000, guid: d039561a0d242784196a9f282d2d2c08, type: 2}
   turrent: {fileID: 0}
+  turrentBlueprint:
+    prefab: {fileID: 0}
+    cost: 0
+    upgradedPrefab: {fileID: 0}
+    upgradedCost: 0
+  isUpgraded: 0
   buildingRadius: 4
   positionOffset: {x: 0, y: 3, z: 0}
 --- !u!65 &2131480969
@@ -31427,6 +32517,12 @@ MonoBehaviour:
   hoverColor: {fileID: 2100000, guid: ce6846b6b5ba77f4e83630cc67fcd60d, type: 2}
   notEnoughMoneyColor: {fileID: 2100000, guid: d039561a0d242784196a9f282d2d2c08, type: 2}
   turrent: {fileID: 0}
+  turrentBlueprint:
+    prefab: {fileID: 0}
+    cost: 0
+    upgradedPrefab: {fileID: 0}
+    upgradedCost: 0
+  isUpgraded: 0
   buildingRadius: 4
   positionOffset: {x: 0, y: 3, z: 0}
 --- !u!65 &2141939804
@@ -31462,6 +32558,12 @@ MonoBehaviour:
   hoverColor: {fileID: 2100000, guid: ce6846b6b5ba77f4e83630cc67fcd60d, type: 2}
   notEnoughMoneyColor: {fileID: 2100000, guid: d039561a0d242784196a9f282d2d2c08, type: 2}
   turrent: {fileID: 0}
+  turrentBlueprint:
+    prefab: {fileID: 0}
+    cost: 0
+    upgradedPrefab: {fileID: 0}
+    upgradedCost: 0
+  isUpgraded: 0
   buildingRadius: 4
   positionOffset: {x: 0, y: 3, z: 0}
 --- !u!65 &2147266468
@@ -31512,7 +32614,7 @@ PrefabInstance:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Modification:
-    m_TransformParent: {fileID: 1937198310}
+    m_TransformParent: {fileID: 601321136}
     m_Modifications:
     - target: {fileID: 1609959751334408599, guid: 73c61f5bd2d1a9b42814a651f5b0da34, type: 3}
       propertyPath: m_Pivot.x
@@ -31524,7 +32626,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 1609959751334408599, guid: 73c61f5bd2d1a9b42814a651f5b0da34, type: 3}
       propertyPath: m_RootOrder
-      value: 1
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 1609959751334408599, guid: 73c61f5bd2d1a9b42814a651f5b0da34, type: 3}
       propertyPath: m_AnchorMax.x
@@ -31549,6 +32651,18 @@ PrefabInstance:
     - target: {fileID: 1609959751334408599, guid: 73c61f5bd2d1a9b42814a651f5b0da34, type: 3}
       propertyPath: m_SizeDelta.y
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1609959751334408599, guid: 73c61f5bd2d1a9b42814a651f5b0da34, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1609959751334408599, guid: 73c61f5bd2d1a9b42814a651f5b0da34, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1609959751334408599, guid: 73c61f5bd2d1a9b42814a651f5b0da34, type: 3}
+      propertyPath: m_LocalScale.z
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 1609959751334408599, guid: 73c61f5bd2d1a9b42814a651f5b0da34, type: 3}
       propertyPath: m_LocalPosition.x
@@ -31601,6 +32715,18 @@ PrefabInstance:
     - target: {fileID: 1609959751334408600, guid: 73c61f5bd2d1a9b42814a651f5b0da34, type: 3}
       propertyPath: m_Name
       value: GameOver
+      objectReference: {fileID: 0}
+    - target: {fileID: 1609959751334408600, guid: 73c61f5bd2d1a9b42814a651f5b0da34, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1609959752769908718, guid: 73c61f5bd2d1a9b42814a651f5b0da34, type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Target
+      value: 
+      objectReference: {fileID: 1430392473}
+    - target: {fileID: 1609959752769908718, guid: 73c61f5bd2d1a9b42814a651f5b0da34, type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_MethodName
+      value: Retry
       objectReference: {fileID: 0}
     m_RemovedComponents:
     - {fileID: 1609959751334408598, guid: 73c61f5bd2d1a9b42814a651f5b0da34, type: 3}

@@ -1,3 +1,4 @@
+using System.Collections;
 using UnityEngine;
 using UnityEngine.EventSystems;
 
@@ -8,9 +9,12 @@ public class Node : MonoBehaviour
     private Renderer rend;
 
     private Material startColor;
-    [Header("Optinal")]
+    [HideInInspector]
     public GameObject turrent;
-    //private GameObject[] buildings;
+    [HideInInspector]
+    public TurrentBlueprint turrentBlueprint;
+    [HideInInspector]
+    public bool isUpgraded = false;
     public int buildingRadius = 6;
     public Vector3 positionOffset;
 
@@ -69,10 +73,73 @@ public class Node : MonoBehaviour
         {
             return;
         }
-        buildManager.BuildTurrentOn(this);
+        BuildTurrent(buildManager.GetTurrentBlueprint());
         
     }
 
+    void BuildTurrent(TurrentBlueprint blueprint)
+    {
+        if (PlayerStats.Money < turrentBlueprint.cost)
+        {
+            Debug.Log("Not enough money to build that!");
+            return;
+        }
+        //if (selectedTurrent != null || selectedTurrent == turrentToBuild)
+        //{
+        //    selectedTurrent = turrentToBuild;
+        //}
+        PlayerStats.Money -= blueprint.cost;
+
+        GameObject buildEffect = (GameObject)Instantiate(buildManager.turrentBuildEffect, GetBuildPosition(), Quaternion.identity);
+        GameObject _turrent = (GameObject)Instantiate(blueprint.prefab, GetBuildPosition(), Quaternion.identity);
+        turrent = _turrent;
+        turrentBlueprint = blueprint;
+        turrent.SetActive(false);
+        Destroy(buildEffect, 8f);
+        StartCoroutine(BuildDelay(8));
+        
+        Debug.Log("Turrent Build! Money left: " + PlayerStats.Money);
+    }
+    IEnumerator BuildDelay(float delayTime)
+    {
+        yield return new WaitForSeconds(delayTime);
+        turrent.SetActive(true);
+    }
+
+    public void UpgradeTurrent()
+    {
+        if (PlayerStats.Money < turrentBlueprint.upgradedCost)
+        {
+            Debug.Log("Not enough money to upgrade that!");
+            return;
+        }
+        //if (selectedTurrent != null || selectedTurrent == turrentToBuild)
+        //{
+        //    selectedTurrent = turrentToBuild;
+        //}
+        PlayerStats.Money -= turrentBlueprint.upgradedCost;
+        //Destroy old turrent
+        
+        Destroy(turrent);
+
+        //Make new one
+        GameObject buildEffect = (GameObject)Instantiate(buildManager.turrentBuildEffect, GetBuildPosition(), Quaternion.identity);
+        GameObject _turrent = (GameObject)Instantiate(turrentBlueprint.upgradedPrefab, GetBuildPosition(), Quaternion.identity);
+        turrent = _turrent;
+        turrent.SetActive(false);
+        Destroy(buildEffect, 8f);
+        StartCoroutine(BuildDelay(8));
+        isUpgraded = true;
+        Debug.Log("Turrent Build! Money left: " + PlayerStats.Money);
+    }
+    public void SellTurrent()
+    {
+        PlayerStats.Money += turrentBlueprint.GetSellAmount();
+        GameObject demolish = (GameObject)Instantiate(buildManager.demolishEffect, GetBuildPosition(), buildManager.demolishEffect.transform.rotation);
+        Destroy(demolish,5f);
+        Destroy(turrent);
+        turrentBlueprint = null;
+    }
     void OnMouseExit()
     {
         rend.material = startColor;

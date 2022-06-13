@@ -6,6 +6,9 @@ public class GameManager : MonoBehaviour
     public static bool GameIsOver = false;
 
     public GameObject gameOverUI;
+    public GameObject moneyUI;
+    public GameObject shopUI;
+    public GameObject livesUI;
 
     void Start()
     {
@@ -31,6 +34,9 @@ public class GameManager : MonoBehaviour
     {
         GameIsOver = true;
         gameOverUI.SetActive(true);
+        moneyUI.SetActive(false);
+        livesUI.SetActive(false);
+        shopUI.SetActive(false);
         Debug.Log("Game Over");
     }
 }
