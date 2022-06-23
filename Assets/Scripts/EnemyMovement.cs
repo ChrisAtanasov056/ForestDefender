@@ -3,14 +3,18 @@ using UnityEngine;
 [RequireComponent(typeof(Enemy))]
 public class EnemyMovement : MonoBehaviour
 {
+    
     private Transform target;
     private int wavepointIndex = 0;
-
+    
     private Enemy enemy;
     void Start()
     {
+        
         enemy = GetComponent<Enemy>();
         target = Waypoints.points[0];
+       
+
     }
     void Update()
     {
@@ -22,9 +26,9 @@ public class EnemyMovement : MonoBehaviour
             GenNextWaypoint();
         }
         enemy.speed = enemy.startSpeed;
-
+        
         transform.LookAt(target);
-
+       
     }
 
     void GenNextWaypoint()
